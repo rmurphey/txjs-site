@@ -1,0 +1,62 @@
+/* reset.css */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {margin:0;padding:0;border:0;font-weight:inherit;font-style:inherit;font-size:100%;font-family:inherit;vertical-align:baseline;}
+body {line-height:1.5;}
+table {border-collapse:separate;border-spacing:0;}
+caption, th, td {text-align:left;font-weight:normal;}
+table, td, th {vertical-align:middle;}
+blockquote:before, blockquote:after, q:before, q:after {content:"";}
+blockquote, q {quotes:"" "";}
+a img {border:none;}
+
+/* txjs */
+
+body {
+    font-family:"helvetica neue", helvetica, verdana, arial, sans-serif;
+    font-size:12px;
+    background-color:#88CFFF;
+}
+#parallax { 
+  position:relative;
+  overflow:hidden;
+  width:1280px;
+  height:1050px;
+  margin:auto;
+}
+#flag {
+    width:100%;
+    height:938px;
+    position:absolute;
+    z-index:999;
+    top:10px;
+    left:0;
+    background-image:url(../images/txjsflag.jpg);
+    background-repeat:no-repeat;
+    background-position:center top;
+}
+#flag h2, #flag h3 {
+    display:none;
+}
+#flag a {
+    display:block;
+    text-indent:-10000px;
+    width:700px;
+    height:438px;
+    margin:0 auto;
+    text-decoration:none;
+    border:none;
+}
+
+#cloud1,
+#cloud2 {
+    width:542px;
+    height:317px;
+}
+#cloud3 {
+    width:386px;
+    height:303px;
+}
+
+#bluebonnets {
+    width:333px;
+    height:208px;
+}
