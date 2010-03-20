@@ -115,7 +115,8 @@
 			<header>
 				<h4>Media Sponsors</h4>
 			</header>
-			<p><a href="http://atxwebshow.com/"><img src="/images/atxwebshow.png" alt="ATX Web Show"></a></p>
+			<p><a href="http://atxwebshow.com"><img src="/images/atxwebshow.png" alt="ATX Web Show"></a></p>
+			<p><a href="http://thechangelog.com"><img src="http://static.tumblr.com/njo56hx/GrCktl97v/changelog-title-alt.png" alt="The Changelog"></a></p>
 		</article>
 	</section>
 	</div>
