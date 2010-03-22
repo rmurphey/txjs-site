@@ -50,6 +50,7 @@
 				<li><strong>Brandon Aaron</strong>, jQuery team member</li>
 				<li><strong>Tim Caswell</strong>, Node.js contributor and founder of <a href="http://howtonode.org">howtonode.org</a></li>
 				<li><strong>Douglas Crockford</strong>, JavaScript architect at Yahoo! and author of "JavaScript: The Good Parts"</li>
+				<li><strong>Tom Hughes-Croucher</strong>, technical evangelist at Yahoo!</li>
 				<li><strong>Andrew Dupont</strong>, Prototype core team member</li>
 				<li><strong>Peter Higgins</strong>, Dojo project lead</li>
 				<li><strong>Paul Irish</strong>, jQuery team member and yayQuery podcast co-host</li>
@@ -59,6 +60,7 @@
 				<li><strong>Alex Sexton</strong>, front-end developer and yayQuery podcast co-host</li>
 				<li><strong>Kyle Simpson</strong>, <a href="http://twitter.com/AustinJS">Austin JS</a> organizer and author of LABjs</li>
 				<li><strong>Adam Sontag</strong>, jQuery UI developer relations team member and yayQuery podcast co-host</li>
+				<li><strong>Nicole Sullivan</strong>, CSS ninja and performance engineer</li>
 				<li><strong>Mike Taylor</strong>, HTML5 aficionado and front-end developer at Tunecore</li>
 				<li><strong>Juriy Zaytsev</strong> (aka @kangax), expert JavaScript wrangler and Prototype core developer</li>
 			</ul>
