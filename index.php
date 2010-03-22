@@ -45,24 +45,72 @@
 			<div style="height:300px;overflow:hidden;"><iframe src="http://www.eventbrite.com/tickets-external?eid=582129164&ref=etckt" frameborder="0" marginwidth="5" marginheight="5" vspace="0" hspace="0" width="100%" height="300" allowtransparency="true" scrolling="auto"></iframe><a href="http://www.eventbrite.com/r/etckt"><img src="http://www.eventbrite.com/s.gif" alt="Events" border="0"/></a></div>
 			
 			<p class="intro">TXJS is a full-day conference in Austin, Texas. The goal of the conference is to provide a low-cost, high-quality opportunity for more than 150 developers to get access to some of the best minds in JavaScript. </p>
-			<p>Our featured guests so far, in merely alphabetical order:</p>
-			<ul>
-				<li><strong>Brandon Aaron</strong>, jQuery team member</li>
-				<li><strong>Tim Caswell</strong>, Node.js contributor and founder of <a href="http://howtonode.org">howtonode.org</a></li>
-				<li><strong>Douglas Crockford</strong>, JavaScript architect at Yahoo! and author of "JavaScript: The Good Parts"</li>
-				<li><strong>Tom Hughes-Croucher</strong>, technical evangelist at Yahoo!</li>
-				<li><strong>Andrew Dupont</strong>, Prototype core team member</li>
-				<li><strong>Peter Higgins</strong>, Dojo project lead</li>
-				<li><strong>Paul Irish</strong>, jQuery team member and yayQuery podcast co-host</li>
-				<li><strong>Brian LeRoux</strong>, software architect at Nitobi and PhoneGap hacker/contributor</li>
-				<li><strong>Joe McCann</strong>, senior technologist at Frog Design</li>
-				<li><strong>John Resig</strong>, creator of the jQuery JavaScript library</li>
-				<li><strong>Alex Sexton</strong>, front-end developer and yayQuery podcast co-host</li>
-				<li><strong>Kyle Simpson</strong>, <a href="http://twitter.com/AustinJS">Austin JS</a> organizer and author of LABjs</li>
-				<li><strong>Adam Sontag</strong>, jQuery UI developer relations team member and yayQuery podcast co-host</li>
-				<li><strong>Nicole Sullivan</strong>, CSS ninja and performance engineer</li>
-				<li><strong>Mike Taylor</strong>, HTML5 aficionado and front-end developer at Tunecore</li>
-				<li><strong>Juriy Zaytsev</strong> (aka @kangax), expert JavaScript wrangler and Prototype core developer</li>
+						
+			<ul class="speakers">
+				<li>
+					<img src="images/speakers/brandon_aaron.jpg" alt="Brandon Aaron">
+					<p><strong>Brandon Aaron</strong>, jQuery team member</p>
+				</li>
+				<li>
+					<img src="images/speakers/tim_caswell.jpg" alt="Tim Caswell">
+					<p><strong>Tim Caswell</strong>, Node.js contributor and founder of <a href="http://howtonode.org">howtonode.org</a></p>
+				</li>
+				<li>
+					<img src="images/speakers/douglas_crockford.jpg" alt="Douglas Crockford">
+					<strong>Douglas Crockford</strong>, JavaScript architect at Yahoo! and author of "JavaScript: The Good Parts"
+				</li>
+				<li>
+					<img src="images/speakers/tom_croucher.jpg" alt="Tom Hughes-Croucher">
+					<p><strong>Tom Hughes-Croucher</strong>, technical evangelist at Yahoo!</p>
+				</li>
+				<li>
+					<img src="images/speakers/andrew_dupont.jpg" alt="Andrew Dupont">
+					<p><strong>Andrew Dupont</strong>, Prototype core team member</p>
+				</li>
+				<li>
+					<img src="images/speakers/peter_higgins.jpg" alt="Peter Higgins">
+					<p><strong>Peter Higgins</strong>, Dojo project lead</p>
+				</li>
+				<li>
+					<img src="images/speakers/paul_irish.jpg" alt="Paul Irish">
+					<p><strong>Paul Irish</strong>, jQuery team member and yayQuery podcast co-host</p>
+				</li>
+				<li>
+					<img src="images/speakers/brian_leroux.jpg" alt="Brian LeRoux">
+					<p><strong>Brian LeRoux</strong>, software architect at Nitobi and PhoneGap hacker/contributor</p>
+				</li>
+				<li>
+					<img src="images/speakers/joe_mccann.jpg" alt="Joe McCann">
+					<p><strong>Joe McCann</strong>, senior technologist at Frog Design</p>
+				</li>
+				<li>
+					<img src="images/speakers/john_resig.jpg" alt="John Resig">
+					<p><strong>John Resig</strong>, creator of the jQuery JavaScript library</p>
+				</li>
+				<li>
+					<img src="images/speakers/alex_sexton.jpg" alt="Alex Sexton">
+					<p><strong>Alex Sexton</strong>, front-end developer at Bazaarvoice and yayQuery podcast co-host</p>
+				</li>
+				<li>
+					<img src="images/speakers/kyle_simpson.jpg" alt="Kyle Simpson">
+					<p><strong>Kyle Simpson</strong>, <a href="http://twitter.com/AustinJS">Austin JS</a> organizer and author of LABjs</p>
+				</li>
+				<li>
+					<img src="images/speakers/adam_sontag.jpg" alt="Adam Sontag">
+					<p><strong>Adam Sontag</strong>, jQuery UI developer relations team member and yayQuery podcast co-host</p>
+				</li>
+				<li>
+					<img src="images/speakers/nicole_sullivan.jpg" alt="Nicole Sullivan">
+					<p><strong>Nicole Sullivan</strong>, CSS ninja and performance engineer</p>
+				</li>
+				<li>
+					<img src="images/speakers/mike_taylor.jpg" alt="Mike Taylor">
+					<p><strong>Mike Taylor</strong>, HTML5 aficionado and front-end developer at Tunecore</p>
+				</li>
+				<li>
+					<img src="images/speakers/juriy_zaytsev.jpg" alt="Juriy Zaytsev">
+					<p><strong>Juriy Zaytsev</strong> (aka @kangax), expert JavaScript wrangler and Prototype core developer</p>
+				</li>
 			</ul>
 		
 			<p>Here's the plan:</p>

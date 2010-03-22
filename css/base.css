@@ -282,6 +282,28 @@ padding: 15px;
 display: none;
 }
 
+ul.speakers {
+list-style-type:none;
+margin:20px 0 20px 0;
+padding:0;
+overflow:hidden;
+}
+
+ul.speakers img {
+display:block;
+margin:0 10px 10px 0;
+float:left;
+border:1px solid #ccc;
+}
+
+ul.speakers li {
+width:300px;
+margin:0 10px 10px 0;
+float:left;
+height:75px;
+font-size:80%;
+}
+
 /* parallax */
 #parallax {
 position: absolute;
