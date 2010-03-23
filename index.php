@@ -48,67 +48,67 @@
 						
 			<ul class="speakers">
 				<li>
-					<img src="images/speakers/brandon_aaron.jpg" alt="Brandon Aaron">
+					<img src="images/brandon_aaron.jpg" alt="Brandon Aaron">
 					<p><strong>Brandon Aaron</strong>, jQuery team member</p>
 				</li>
 				<li>
-					<img src="images/speakers/tim_caswell.jpg" alt="Tim Caswell">
+					<img src="images/tim_caswell.jpg" alt="Tim Caswell">
 					<p><strong>Tim Caswell</strong>, Node.js contributor and founder of <a href="http://howtonode.org">howtonode.org</a></p>
 				</li>
 				<li>
-					<img src="images/speakers/douglas_crockford.jpg" alt="Douglas Crockford">
+					<img src="images/douglas_crockford.jpg" alt="Douglas Crockford">
 					<strong>Douglas Crockford</strong>, JavaScript architect at Yahoo! and author of "JavaScript: The Good Parts"
 				</li>
 				<li>
-					<img src="images/speakers/tom_croucher.jpg" alt="Tom Hughes-Croucher">
+					<img src="images/tom_croucher.jpg" alt="Tom Hughes-Croucher">
 					<p><strong>Tom Hughes-Croucher</strong>, technical evangelist at Yahoo!</p>
 				</li>
 				<li>
-					<img src="images/speakers/andrew_dupont.jpg" alt="Andrew Dupont">
+					<img src="images/andrew_dupont.jpg" alt="Andrew Dupont">
 					<p><strong>Andrew Dupont</strong>, Prototype core team member</p>
 				</li>
 				<li>
-					<img src="images/speakers/peter_higgins.jpg" alt="Peter Higgins">
+					<img src="images/peter_higgins.jpg" alt="Peter Higgins">
 					<p><strong>Peter Higgins</strong>, Dojo project lead</p>
 				</li>
 				<li>
-					<img src="images/speakers/paul_irish.jpg" alt="Paul Irish">
+					<img src="images/paul_irish.jpg" alt="Paul Irish">
 					<p><strong>Paul Irish</strong>, jQuery team member and yayQuery podcast co-host</p>
 				</li>
 				<li>
-					<img src="images/speakers/brian_leroux.jpg" alt="Brian LeRoux">
+					<img src="images/brian_leroux.jpg" alt="Brian LeRoux">
 					<p><strong>Brian LeRoux</strong>, software architect at Nitobi and PhoneGap hacker/contributor</p>
 				</li>
 				<li>
-					<img src="images/speakers/joe_mccann.jpg" alt="Joe McCann">
+					<img src="images/joe_mccann.jpg" alt="Joe McCann">
 					<p><strong>Joe McCann</strong>, senior technologist at Frog Design</p>
 				</li>
 				<li>
-					<img src="images/speakers/john_resig.jpg" alt="John Resig">
+					<img src="images/john_resig.jpg" alt="John Resig">
 					<p><strong>John Resig</strong>, creator of the jQuery JavaScript library</p>
 				</li>
 				<li>
-					<img src="images/speakers/alex_sexton.jpg" alt="Alex Sexton">
+					<img src="images/alex_sexton.jpg" alt="Alex Sexton">
 					<p><strong>Alex Sexton</strong>, front-end developer at Bazaarvoice and yayQuery podcast co-host</p>
 				</li>
 				<li>
-					<img src="images/speakers/kyle_simpson.jpg" alt="Kyle Simpson">
+					<img src="images/kyle_simpson.jpg" alt="Kyle Simpson">
 					<p><strong>Kyle Simpson</strong>, <a href="http://twitter.com/AustinJS">Austin JS</a> organizer and author of LABjs</p>
 				</li>
 				<li>
-					<img src="images/speakers/adam_sontag.jpg" alt="Adam Sontag">
+					<img src="images/adam_sontag.jpg" alt="Adam Sontag">
 					<p><strong>Adam Sontag</strong>, jQuery UI developer relations team member and yayQuery podcast co-host</p>
 				</li>
 				<li>
-					<img src="images/speakers/nicole_sullivan.jpg" alt="Nicole Sullivan">
+					<img src="images/nicole_sullivan.jpg" alt="Nicole Sullivan">
 					<p><strong>Nicole Sullivan</strong>, CSS ninja and performance engineer</p>
 				</li>
 				<li>
-					<img src="images/speakers/mike_taylor.jpg" alt="Mike Taylor">
+					<img src="images/mike_taylor.jpg" alt="Mike Taylor">
 					<p><strong>Mike Taylor</strong>, HTML5 aficionado and front-end developer at Tunecore</p>
 				</li>
 				<li>
-					<img src="images/speakers/juriy_zaytsev.jpg" alt="Juriy Zaytsev">
+					<img src="images/juriy_zaytsev.jpg" alt="Juriy Zaytsev">
 					<p><strong>Juriy Zaytsev</strong> (aka @kangax), expert JavaScript wrangler and Prototype core developer</p>
 				</li>
 			</ul>
