@@ -89,11 +89,11 @@
 				</li>
 				<li>
 					<img src="images/alex_sexton.jpg" alt="Alex Sexton">
-					<p><strong>Alex Sexton</strong>, front-end developer at Bazaarvoice and yayQuery podcast co-host</p>
+					<p><strong>Alex Sexton</strong>, labs engineer at Bazaarvoice and yayQuery podcast co-host</p>
 				</li>
 				<li>
 					<img src="images/kyle_simpson.jpg" alt="Kyle Simpson">
-					<p><strong>Kyle Simpson</strong>, <a href="http://twitter.com/AustinJS">Austin JS</a> organizer and author of LABjs</p>
+					<p><strong>Kyle Simpson</strong>, author of LABjs</p>
 				</li>
 				<li>
 					<img src="images/adam_sontag.jpg" alt="Adam Sontag">
