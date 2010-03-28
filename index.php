@@ -172,7 +172,7 @@
 	</div>
 	
 	<div id="parallax"> 
-	    <div id="bluebonnets"><img src="images/bluebonnets.jpg" width="333" height="208" alt="" /></div> 
+	   <!-- <div id="bluebonnets"><img src="images/bluebonnets.jpg" width="333" height="208" alt="" /></div> -->
 	    <div id="cloud1"><img src="images/cloud.png" width="542" height="317" alt="" /></div> 
 	    <div id="cloud2"><img src="images/cloud.png" width="542" height="317" alt="" /></div> 
 	    <div id="cloud3"><img src="images/rainbow_clouds.png" width="386" height="303" alt="" /></div> 
