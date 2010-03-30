@@ -136,15 +136,15 @@
 				Location TBA shortly</p>
 		</article>
 		
-		<!-- <article>
+		<article>
 			<header>
 				<h4>Location</h4>
 			</header>
-			<p>Thompson Conference Center<br>
+			<p><a href="http://www.utexas.edu/ce/tcc/">Thompson Conference Center</a><br>
 			2405 Robert Dedman Drive<br>
 			Austin, TX 78712</p>
 <iframe width="210" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Thompson+Conference+Center,+2405+Robert+Dedman+Drive,+Austin,+TX+78712&amp;sll=37.0625,-95.677068&amp;sspn=54.79724,115.224609&amp;ie=UTF8&amp;hq=Thompson+Conference+Center,&amp;hnear=2405+Robert+Dedman+Dr,+Austin,+TX+78705&amp;ll=30.288717,-97.728882&amp;spn=0.014823,0.01708&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Thompson+Conference+Center,+2405+Robert+Dedman+Drive,+Austin,+TX+78712&amp;sll=37.0625,-95.677068&amp;sspn=54.79724,115.224609&amp;ie=UTF8&amp;hq=Thompson+Conference+Center,&amp;hnear=2405+Robert+Dedman+Dr,+Austin,+TX+78705&amp;ll=30.288717,-97.728882&amp;spn=0.014823,0.01708&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>		
-		</article> -->
+		</article>
 		
 		<article>
 			<header>
