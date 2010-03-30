@@ -132,8 +132,7 @@
 				<h4>Hosted by the yayQuery Podcast</h4>
 			</header>
 			<p><a href="http://yayQuery.com"><img src="images/yayQueryLogo.png" alt="yayQuery"></a></p>
-			<p>Saturday, June 5, 9am-6pm<br>
-				Location TBA shortly</p>
+			<p>Saturday, June 5, 9am-6pm</p>
 		</article>
 		
 		<article>
