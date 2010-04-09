@@ -15,7 +15,7 @@
 </head> 
 <body> 
 	<ul id="banner">
-		<li class="news"><strong>News:</strong> We have a venue! Join us at the <a href="http://www.utexas.edu/ce/tcc/">Thompson Conference Center</a></li>
+		<!-- <li class="news"><strong>News:</strong> We have a venue! Join us at the <a href="http://www.utexas.edu/ce/tcc/">Thompson Conference Center</a></li> -->
 		<a href="http://twitter.com/txjs"><li class="twitter">Follow @txjs on Twitter</li></a>
 	</ul>
 	
@@ -38,14 +38,16 @@
 		<section id="content">
 			<header>
 				<h2 class="code">var TXJS = JS + BBQ + you;</h2>
-				<h3>What could be better than that?</h3>
 			</header>
-			
-			<!-- eventbrite iframe -->
-			<div style="height:300px;overflow:hidden;"><iframe src="http://www.eventbrite.com/tickets-external?eid=582129164&ref=etckt" frameborder="0" marginwidth="5" marginheight="5" vspace="0" hspace="0" width="100%" height="300" allowtransparency="true" scrolling="auto"></iframe><a href="http://www.eventbrite.com/r/etckt"><img src="http://www.eventbrite.com/s.gif" alt="Events" border="0"/></a></div>
-			
-			<p class="intro">TXJS is a full-day conference in Austin, Texas. The goal of the conference is to provide a low-cost, high-quality opportunity for more than 150 developers to get access to some of the best minds in JavaScript. </p>
+
+			<p class="intro">TXJS is a full-day conference in Austin, Texas, featuring some of the best minds in JavaScript.</p>
 						
+			<ul>
+				<li><strong>Friday Night</strong> Gather your strength for a full day of JavaScript by joining us at <a href="http://www.gingermanpub.com/">The Ginger Man</a> in downtown Austin from 6 p.m. - 8 p.m. Sponsored by <a href="http://facebook.com">Facebook</a> &mdash; the first two beers are on the house!</li>
+				<li><strong>Saturday Day</strong> A whole lotta JavaScripters hanging out from 9 a.m. - 6 p.m. at the <a href="http://www.themarchesa.com/">Marchesa Hall &amp; Theater</a>. <strong>Registration starts at 8:15 a.m.</strong></li>
+				<li><strong>Saturday Night</strong> After the conference, get your JavaScript on with a hack night and party at <a href="http://www.texascoworking.com/">Texas Coworking</a> on Austin&rsquo;s fabulous Sixth Street, sponsored by <a href="http://google.com">Google</a> and hosted by <a href="http://twitter.com/austinjs">Austin JS</a>.</li>
+			</ul>
+
 			<ul class="speakers">
 				<li>
 					<img src="images/brandon_aaron.jpg" alt="Brandon Aaron">
@@ -113,44 +115,44 @@
 				</li>
 			</ul>
 		
-			<p>Here's the plan:</p>
 
-			<ul>
-				<li>A whole lotta JavaScripters hanging out all day in Austin, Texas</li>
-				<li>Lightning talks &mdash; show us your codez in 5 minutes or less!</li>
-				<li>BBQ! (or  not, if it's not your thing)</li>
-			</ul>
-
-			<p><strong>Follow us at <a href="http://twitter.com/txjs">@txjs</a> to stay in touch</strong>, but register now so you can tell your friends you knew us when.</p>
-			
+			<!-- eventbrite iframe -->
+			<div style="height:300px;overflow:hidden;"><iframe src="http://www.eventbrite.com/tickets-external?eid=582129164&ref=etckt" frameborder="0" marginwidth="5" marginheight="5" vspace="0" hspace="0" width="100%" height="300" allowtransparency="true" scrolling="auto"></iframe><a href="http://www.eventbrite.com/r/etckt"><img src="http://www.eventbrite.com/s.gif" alt="Events" border="0"/></a></div>
+	
 		</section>
 	</section>
 
 	<section id="promos">
 		<article>
 			<header>
+				<h4>Presented by</h4>
+			</header>
+			<p><a href="http://bazaarvoice.com"><img src="images/bazaarvoice_small.png" alt="Bazzarvoice"></a></p>
+			<p>Saturday, June 5, 9am-6pm</p>
+			<p><a href="http://www.themarchesa.com/">Marchesa Hall &amp; Theater</a><br>
+			6406 N IH-35 Suite 3100<br>
+			Austin, TX 78752</p>		
+		</article>
+
+		<article>
+			<header>
 				<h4>Hosted by the yayQuery Podcast</h4>
 			</header>
 			<p><a href="http://yayQuery.com"><img src="images/yayQueryLogo.png" alt="yayQuery"></a></p>
-			<p>Saturday, June 5, 9am-6pm</p>
 		</article>
 		
 		<article>
 			<header>
-				<h4>Location</h4>
-			</header>
-			<p><a href="http://www.utexas.edu/ce/tcc/">Thompson Conference Center</a><br>
-			2405 Robert Dedman Drive<br>
-			Austin, TX 78712</p>
-<iframe width="210" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Thompson+Conference+Center,+2405+Robert+Dedman+Drive,+Austin,+TX+78712&amp;sll=37.0625,-95.677068&amp;sspn=54.79724,115.224609&amp;ie=UTF8&amp;hq=Thompson+Conference+Center,&amp;hnear=2405+Robert+Dedman+Dr,+Austin,+TX+78705&amp;ll=30.288717,-97.728882&amp;spn=0.014823,0.01708&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Thompson+Conference+Center,+2405+Robert+Dedman+Drive,+Austin,+TX+78712&amp;sll=37.0625,-95.677068&amp;sspn=54.79724,115.224609&amp;ie=UTF8&amp;hq=Thompson+Conference+Center,&amp;hnear=2405+Robert+Dedman+Dr,+Austin,+TX+78705&amp;ll=30.288717,-97.728882&amp;spn=0.014823,0.01708&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>		
-		</article>
-		
-		<article>
-			<header>
-				<h4>Hack night party,<br> sponsored by Google</h4>
+				<h4>Saturday hack night &amp; party sponsored by</h4>
 			</header>
 			<p><a href="http://www.google.com"><img src="http://www.rebeccamurphey.com/stuff/white_online.gif" alt="Google" /></a></p>
-			<p>Can't get enough JavaScript? Join us for a post-conference hack night and party, sponsored by Google. Details to come, but expect many of our great speakers to join us at a venue in downtown Austin.</p>
+		</article>
+		
+		<article>
+			<header>
+				<h4>Friday night party at<br> The Ginger Man sponsored by</h4>
+				<p><a href="http://facebook.com"><img src="/images/facebook_logo.png"></a></p>
+			</header>
 		</article>
 		
 		<article class="sponsors">
@@ -166,6 +168,7 @@
 				<h4>Media Sponsors</h4>
 			</header>
 			<p><a href="http://atxwebshow.com"><img src="/images/atxwebshow.png" alt="ATX Web Show"></a></p>
+			<p><a href="http://jsmag.com"><img src="/images/jsmag.png" alt="JSMag"></a></p>
 			<p><a href="http://thechangelog.com"><img src="http://static.tumblr.com/njo56hx/GrCktl97v/changelog-title-alt.png" alt="The Changelog"></a></p>
 		</article>
 	</section>
