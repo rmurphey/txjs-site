@@ -64,8 +64,15 @@ h2 {
 	letter-spacing:1px;
 	color:#D4EEFF;
 	padding-top:20px;
+	padding-bottom:50px;
+	margin-bottom:-50px;
+	padding-left:10px;
+	margin-left:-10px;
 	width:580px;
 	text-shadow:2px 4px #2A5157;
+	background-image:url(../images/txjsflagsmall.png);
+	background-position:400px 75px;
+	background-repeat:no-repeat;
 	float:right;
 	-moz-transform: rotate(0.7deg);  /* FF3.5+ */
 	-o-transform: rotate(0.7deg);  /* Opera 10.5 */
@@ -152,6 +159,7 @@ h3 .sponsoredby {
 	font-weight:normal;
 	color:#FFFFFF;
 	border:4px solid #1E393D;
+	margin-bottom:20px;
 }
 .partyinfo li {
 	padding:5px;
@@ -162,12 +170,6 @@ h3 .sponsoredby {
 }
 .partyinfo li.odd {
 	background-color:#305D64;
-}
-#rsvp1 {
-
-}
-#rsvp2 {
-
 }
 .date {
 	color:#70D4E3;
@@ -234,9 +236,11 @@ h3 .sponsoredby {
 	border:4px solid #1E393D;
 	opacity:0.9;
 	height:35px;
+	margin:0 10px 20px;
 }
 #checkboxgroup dl {
-	width:310px;
+	width:300px;
+	text-align:center;
 	float:left;
 }
 #checkboxgroup input {
@@ -260,9 +264,11 @@ h3 .sponsoredby {
 	               zoom: 1;
 }
 .btns button {
+	clear:both;
 	cursor:pointer;
 	padding:20px;
 	font-size:25px;
+	margin-top:20px;
 	background-color:#D4EEFF;
 	border:5px solid #333333;
 	-moz-box-shadow: 0px 0px 6px #000000; /* FF3.5+ */
