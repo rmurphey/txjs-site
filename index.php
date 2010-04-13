@@ -43,8 +43,8 @@
 			<p class="intro">TXJS is a full-day conference in Austin, Texas, featuring some of the best minds in JavaScript.</p>
 						
 			<ul>
-				<li><strong>Friday Night</strong> Gather your strength for a full day of JavaScript by joining us at <a href="http://www.gingermanpub.com/">The Ginger Man</a> in downtown Austin from 6 p.m. - 8 p.m. Sponsored by <a href="http://facebook.com">Facebook</a> &mdash; the first two beers are on the house!</li>
-				<li><strong>Saturday Day</strong> A whole lotta JavaScripters hanging out from 9 a.m. - 6 p.m. at the <a href="http://www.themarchesa.com/">Marchesa Hall &amp; Theater</a>. <strong>Registration starts at 8:15 a.m.</strong></li>
+				<li><strong>Friday Night</strong> Gather your strength for a full day of JavaScript by joining us at <a href="http://www.gingermanpub.com/">The Ginger Man</a> in downtown Austin from 6 p.m. - 8 p.m. for TXJS Hapy Hour. Sponsored by <a href="http://facebook.com">Facebook</a> &mdash; the first two beers are on the house!</li>
+				<li><strong>Saturday Day</strong> A whole lotta JavaScripters hanging out from 9 a.m. - 6 p.m. at the <a href="http://www.themarchesa.com/">Marchesa Hall &amp; Theater</a> &mdash; we&rsquo;ll have three rooms with speakers going all day, plus a lounge for informal conversation and hacking. <strong>Registration starts at 8:15 a.m.</strong></li>
 				<li><strong>Saturday Night</strong> After the conference, get your JavaScript on with a hack night and party at <a href="http://www.texascoworking.com/">Texas Coworking</a> on Austin&rsquo;s fabulous Sixth Street, sponsored by <a href="http://google.com">Google</a> and hosted by <a href="http://twitter.com/austinjs">Austin JS</a>.</li>
 			</ul>
 
@@ -150,17 +150,18 @@
 		
 		<article>
 			<header>
-				<h4>Friday night party at<br> The Ginger Man sponsored by</h4>
+				<h4>Friday night happy hour at<br> The Ginger Man sponsored by</h4>
 				<p><a href="http://facebook.com"><img src="/images/facebook_logo.png"></a></p>
 			</header>
 		</article>
 		
-		<article class="sponsors">
+		<article class="sponsors amenity_sponsors">
 			<header>
 				<h4>Amenity Sponsors</h4>
 			</header>
 			<p><a href="http://environmentsforhumans.com/"><img src="/images/e4h.png" alt="Environments for Humans"></a></p>
 			<p><a href="http://github.com"><img src="/images/github.png" alt="Github"></a></p>
+			<p><a href="http://nitobi.com"><img src="/images/nitobi.png" alt="Nitobi"></a></p>
 		</article>
 
 		<article class="sponsors">

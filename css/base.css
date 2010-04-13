@@ -274,6 +274,10 @@ article.sponsors p {
 text-align: center;
 }
 
+article.amenity_sponsors p {
+margin:10px 0;
+}
+
 #content {
 padding: 15px;
 }
