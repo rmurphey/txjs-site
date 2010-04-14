@@ -120,6 +120,7 @@ span.notice {
 }
 #formlist {
 	clear:both;
+	overflow:auto;
 }
 #formlist li.event {
 	padding:5px;
