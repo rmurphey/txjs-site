@@ -167,6 +167,7 @@
 			<header>
 				<h4>Amenity Sponsors</h4>
 			</header>
+			<p><a href="http://couch.io"><img src="/images/couchio.png" alt="Couchio"></a></p>
 			<p><a href="http://environmentsforhumans.com/"><img src="/images/e4h.png" alt="Environments for Humans"></a></p>
 			<p><a href="http://github.com"><img src="/images/github.png" alt="Github"></a></p>
 			<p><a href="http://nitobi.com"><img src="/images/nitobi.png" alt="Nitobi"></a></p>
