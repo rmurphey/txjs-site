@@ -86,6 +86,10 @@
 					<p><strong>Joe McCann</strong>, senior technologist at Frog Design</p>
 				</li>
 				<li>
+					<img src="images/tom_occhino.jpg" alt="Tom Occhino">
+					<p><strong>Tom Occhino</strong>, Facebook</p>
+				</li>
+				<li>
 					<img src="images/john_resig.jpg" alt="John Resig">
 					<p><strong>John Resig</strong>, creator of the jQuery JavaScript library</p>
 				</li>
@@ -108,6 +112,10 @@
 				<li>
 					<img src="images/mike_taylor.jpg" alt="Mike Taylor">
 					<p><strong>Mike Taylor</strong>, HTML5 aficionado and front-end developer at Tunecore</p>
+				</li>
+				<li>
+					<img src="images/dan_webb.jpg" alt="Dan Webb">
+					<p><strong>Dan Webb</strong>, Twitter</p>
 				</li>
 				<li>
 					<img src="images/juriy_zaytsev.jpg" alt="Juriy Zaytsev">
