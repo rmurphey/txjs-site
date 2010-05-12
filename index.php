@@ -124,9 +124,140 @@
 			</ul>
 		
 
-			<!-- eventbrite iframe -->
+			<!-- eventbrite iframe 
 			<div style="height:300px;overflow:hidden;"><iframe src="http://www.eventbrite.com/tickets-external?eid=582129164&ref=etckt" frameborder="0" marginwidth="5" marginheight="5" vspace="0" hspace="0" width="100%" height="300" allowtransparency="true" scrolling="auto"></iframe><a href="http://www.eventbrite.com/r/etckt"><img src="http://www.eventbrite.com/s.gif" alt="Events" border="0"/></a></div>
+			-->
 	
+		</section>
+		
+		<section id="schedule">
+			<header>
+				<h2>Schedule</h2>
+			</header>
+			<table border="0">
+				<thead>
+					<tr>
+						<th scope="col" width="10%">&nbsp;</th>
+						<th scope="col" width="25%">Track A: Theater</th>
+						<th scope="col" width="25%">Track B: Hall</th>
+						<th scope="col" width="25%">Track C: Annex</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<th scope="row"></th>
+						<td colspan="3">A shuttle bus will be available to take you from the Driskill Hotel in downtown Austin to The Marchesa. <strong>The shuttle will start at 8am, and the last pickup will be at 9am.</strong></td>
+					</tr>
+					<tr>
+						<th scope   = "row">8:15-9:00</th>
+						<td colspan = "3"><strong>Registration</strong></td>
+					</tr>
+					<tr>
+						<th scope   = "row">9:00-9:10</th>
+						<td><strong>Welcome</strong></td>
+						<td colspan="2" class="inactive">&nbsp;</td>
+					</tr>
+					<tr>
+						<th scope   = "row">9:10-9:20</th>
+						<td colspan = "3" class="break">Break</td>
+					</tr>
+					<tr>
+						<th scope   = "row">9:20-10:10</th>
+						<td><strong>Douglas Crockford</strong>: Really, JavaScript?</td>
+						<td><strong>Tom Occhino</strong>: Front End Abstractions at Facebook</td>
+						<td><em>Track C will be open for any attendee to present a talk; signups will be first-come, first served on the day of the conference.</em></td>
+					</tr>
+					<tr>
+						<th scope   = "row">10:10-10:20</th>
+						<td colspan = "3" class="break">Break</td>
+					</tr>
+					<tr>
+						<th scope   = "row">10:20-11:00</th>
+						<td><strong>John Resig</strong></td>
+						<td><strong>Mike Taylor</strong>: Regressive Enhancement, or HTML5 for crappy browsers</td>
+						<td>Open</td>
+					</tr>
+					<tr>
+						<th scope   = "row">11:00-11:10</th>
+						<td colspan = "3" class="break">Break</td>
+					</tr>
+					<tr>
+						<th scope   = "row">11:10-11:50</th>
+						<td><strong>Dan Webb</strong>: Building @anywhere: A Client-side Interface to Twitter</td>
+						<td><strong>Joe McCann</strong>: Rapid Prototyping with JavaScript</td>
+						<td>Open</td>
+					</tr>
+					<tr>
+						<th scope   = "row">11:50-12:00</th>
+						<td colspan = "3" class="break">Break</td>
+					</tr>
+					<tr>
+						<th scope   = "row">12:00-12:40</th>
+						<td><strong>Paul Irish</strong>: 10 Things I Learned from the jQuery Source</td>
+						<td><strong>Eugene Lazutkin</strong>: Dojo for Programmers</td>
+						<td>Open</td>
+					</tr>
+					<tr>
+						<th scope   = "row">12:40-1:40</th>
+						<td colspan = "3" class="break"><p>Lunch &mdash; Open Bar sponsored by <a href="http://mediatemple.net"><img src="http://s1.mt-cdn.net/_images/partnerlogos/mt-160x30-dk__7b47849.jpg" alt="(mt) Media Temple"></a></p></td>
+					</tr>
+					<tr>
+						<th scope   = "row">1:40-2:20</th>
+						<td><strong>Nicole Sullivan</strong>: The Top 5 Mistakes of Massive CSS</td>
+						<td><strong>Alex Sexton</strong>: Breaking The Cross Domain Barrier</td>
+						<td>Open</td>
+					</tr>
+					<tr>
+						<th scope   = "row">2:20-2:30</th>
+						<td colspan = "3" class="break">Break</td>
+					</tr>
+					<tr>
+						<th scope   = "row">2:30-3:10</th>
+						<td><strong>Tom Hughes-Croucher</strong>: JavaScript Everywhere! Creating a 100% JavaScript web stack</td>
+						<td><strong>Andrew Dupont</strong>: How Custom Events Will Save The Universe	</td>
+						<td>Open</td>
+					</tr>
+					<tr>
+						<th scope   = "row">3:10-3:20</th>
+						<td colspan = "3" class="break">Break</td>
+					</tr>
+					<tr>
+						<th scope   = "row">3:20-4:00</th>
+						<td><strong>Juriy Zaytsev</strong>: Dive into ECMAScript 5</td>
+						<td><strong>Brandon Aaron</strong>: Special Events: Beyond Custom Events</td>
+						<td>Open</td>
+					</tr>
+					<tr>
+						<th scope   = "row">4:00-4:10</th>
+						<td colspan = "3" class="break">Break</td>
+					</tr>
+					<tr>
+						<th scope   = "row">4:10-4:50</th>
+						<td><strong>Peter Higgins</strong>: It's Just JavaScript</td>
+						<td><strong>Tim Caswell</strong>: Writing a real-time game with NodeJS</td>
+						<td>Open</td>
+					</tr>
+					<tr>
+						<th scope   = "row">4:50-5:00</th>
+						<td colspan = "3" class="break">Break</td>
+					</tr>
+					<tr>
+						<th scope   = "row">5:00-5:40</th>
+						<td><strong>Brian LeRoux</strong>: F#$% Yeah, Mobile JavaScript	</td>
+						<td><strong>Kyle Simpson</strong>: Web Performance &amp; UI Architecture</td>
+						<td>Open</td>
+					</tr>
+					<tr>
+						<th scope   = "row">5:40-6:00</th>
+						<td><strong>Thanks and wrapup</strong></td>
+						<td colspan = "2" class="inactive">&nbsp;</td>
+					</tr>
+					<tr>
+						<th scope="row"></th>
+						<td colspan="3">A shuttle bus will be available to take you from The Marchesa back to downtown Austin, dropping off at Texas Coworking (across the street from the Driskill Hotel). <strong>The shuttle will start at 6pm, and the last pickup will be at 7pm.</strong></td>
+					</tr>
+				</tbody>
+			</table>
 		</section>
 	</section>
 
@@ -144,22 +275,29 @@
 
 		<article>
 			<header>
-				<h4>Hosted by the yayQuery Podcast</h4>
-			</header>
-			<p><a href="http://yayQuery.com"><img src="images/yayQueryLogo.png" alt="yayQuery"></a></p>
-		</article>
-		
-		<article>
-			<header>
 				<h4>Saturday hack night &amp; party sponsored by</h4>
 			</header>
-			<p><a href="http://www.google.com"><img src="http://www.rebeccamurphey.com/stuff/white_online.gif" alt="Google" /></a></p>
+			<p style="text-align:center"><a href="http://www.google.com"><img src="http://www.rebeccamurphey.com/stuff/white_online.gif" alt="Google" /></a></p>
 		</article>
 		
 		<article>
 			<header>
 				<h4>Friday night happy hour at<br> The Ginger Man sponsored by</h4>
-				<p><a href="http://facebook.com"><img src="/images/facebook_logo.png"></a></p>
+				<p style="text-align:center"><a href="http://facebook.com"><img src="/images/facebook_logo.png" alt="Facebook"></a></p>
+			</header>
+		</article>
+		
+		<article>
+			<header>
+				<h4>Open bar at The Marchesa sponsored by</h4>
+				<p style="text-align:center"><a href="http://mediatemple.net"><img src="http://s2.mt-cdn.net/_images/partnerlogos/mt-180x150-lt__6e06a4b.jpg" alt="(mt) Media Temple"></a></p>
+			</header>
+		</article>
+		
+		<article>
+			<header>
+				<h4>Shuttle bus to and from The Marchesa sponsored by</h4>
+				<p style="margin:10px 0"><a href="http://microsoft.com"><img src="/images/microsoft.png" alt="Microsoft"></a></p>
 			</header>
 		</article>
 		
@@ -181,6 +319,14 @@
 			<p><a href="http://jsmag.com"><img src="/images/jsmag.png" alt="JSMag"></a></p>
 			<p><a href="http://thechangelog.com"><img src="http://static.tumblr.com/njo56hx/GrCktl97v/changelog-title-alt.png" alt="The Changelog"></a></p>
 		</article>
+
+		<article>
+			<header>
+				<h4>Hosted by the yayQuery Podcast</h4>
+			</header>
+			<p style="text-align:center"><a href="http://yayQuery.com"><img src="images/yayQueryLogo.png" alt="yayQuery"></a></p>
+		</article>
+		
 	</section>
 	</div>
 	

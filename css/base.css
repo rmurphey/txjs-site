@@ -333,3 +333,46 @@ height: 303px;
 width: 333px;
 height: 208px;
 }
+
+#schedule {
+	padding:10px;
+}
+
+#schedule table {
+	font-size:90%;
+	color:#000;
+}
+
+#schedule th,
+#schedule td {
+	padding:5px;
+	border:1px solid #ccc;
+}
+
+#schedule th {
+	vertical-align:middle;
+}
+
+#schedule thead th {
+	background-color:#002655;
+	color:#fff;
+}
+
+#schedule .inactive {
+	background-color:#ccc;
+}
+
+#schedule .break {
+	background-color:#002655;
+	color:#fff;
+	text-align:center;
+	font-weight:bold;
+}
+
+#schedule p {
+	margin:0 0 5px 0;
+}
+
+#schedule img {
+	margin:0 0 -10px 0;
+}
