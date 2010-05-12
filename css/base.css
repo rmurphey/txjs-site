@@ -345,7 +345,7 @@ height: 208px;
 
 #schedule th,
 #schedule td {
-	padding:5px;
+	padding:8px 4px;
 	border:1px solid #ccc;
 }
 
@@ -354,8 +354,36 @@ height: 208px;
 }
 
 #schedule thead th {
-	background-color:#002655;
+
+
+  background-color: #002655;
+  background-image: -moz-linear-gradient(top, #002655, #1C4980); /* FF3.6 */
+  background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0, #002655),color-stop(1, #1C4980)); /* Saf4+, Chrome */
+
+
 	color:#fff;
+}
+
+
+#schedule tbody tr:hover th {
+	background:rgb(237,237,237);
+	 }
+	
+#schedule tbody td:hover:not(.break) {
+	background:rgb(235,235,235);
+	 }
+
+#schedule tbody tr:nth-child(even){
+	background:rgb(240,240,240);
+}
+
+
+#schedule th, #schedule td {
+	
+	     -moz-transition: all 0.15s ease-out;  /* FF3.7+ */
+	       -o-transition: all 0.15s ease-out;  /* Opera 10.5 */
+	  -webkit-transition: all 0.15s ease-out;  /* Saf3.2+, Chrome */
+
 }
 
 #schedule .inactive {
@@ -363,7 +391,13 @@ height: 208px;
 }
 
 #schedule .break {
-	background-color:#002655;
+
+
+  background-color: #002655;
+  background-image: -moz-linear-gradient(top, #002655, #1C4980); /* FF3.6 */
+  background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0, #002655),color-stop(1, #1C4980)); /* Saf4+, Chrome */
+
+
 	color:#fff;
 	text-align:center;
 	font-weight:bold;
