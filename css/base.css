@@ -335,12 +335,12 @@ height: 208px;
 }
 
 #schedule {
-	padding:10px;
+padding:10px;
 }
 
 #schedule table {
-	font-size:90%;
-	color:#000;
+font-size:90%;
+color:#000;
 }
 
 #schedule th,
@@ -350,12 +350,10 @@ height: 208px;
 }
 
 #schedule th {
-	vertical-align:middle;
+vertical-align:middle;
 }
 
 #schedule thead th {
-
-
   background-color: #002655;
   background-image: -moz-linear-gradient(top, #002655, #1C4980); /* FF3.6 */
   background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0, #002655),color-stop(1, #1C4980)); /* Saf4+, Chrome */
@@ -387,12 +385,10 @@ height: 208px;
 }
 
 #schedule .inactive {
-	background-color:#ccc;
+background-color:#ccc;
 }
 
 #schedule .break {
-
-
   background-color: #002655;
   background-image: -moz-linear-gradient(top, #002655, #1C4980); /* FF3.6 */
   background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0, #002655),color-stop(1, #1C4980)); /* Saf4+, Chrome */
@@ -404,9 +400,9 @@ height: 208px;
 }
 
 #schedule p {
-	margin:0 0 5px 0;
+margin:0 0 5px 0;
 }
 
 #schedule img {
-	margin:0 0 -10px 0;
+margin:0 0 -10px 0;
 }
