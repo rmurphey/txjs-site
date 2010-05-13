@@ -15,7 +15,7 @@
 </head> 
 <body> 
 	<ul id="banner">
-		<!-- <li class="news"><strong>News:</strong> We have a venue! Join us at the <a href="http://www.utexas.edu/ce/tcc/">Thompson Conference Center</a></li> -->
+		<li class="news"><strong>News:</strong> Microsoft is sponsoring a shuttle to get you to &amp; from The Marchesa!</li>
 		<a href="http://twitter.com/txjs"><li class="twitter">Follow @txjs on Twitter</li></a>
 	</ul>
 	
