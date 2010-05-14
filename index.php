@@ -122,7 +122,16 @@
 						</td>
 						<td><strong>Joe McCann</strong>: Rapid Prototyping with JavaScript
 							<aside>
-								<p>@anywhere is a platform which provides developers with the ability to create fully featured Twitter applications from pure client-side JavaScript.  This presentation will quickly introduce @anywhere then dive into what it took to build the platform.  We'll talk cross-domain communication, client-only authentication and security, iframes (oh, the iframes!) and lots more as in order to explain what it took to provide Twitter's API over pure JavaScript and how you could use similar techniques to expose a pure JavaScript interface to your web application.</p>								
+								<p>The area of Research and Development (R&D) in software, web and user interface engineering is making quite a statement in many large and small scale organizations lately.  With such a vast amount of data and web service APIs available to developers, coupled with a huge demand for multiple systems integrating seamlessly across several platforms and devices, it should come as no surprise that companies are creating “Labs” departments left and right to create the “next big thing.”</p>
+								<p>In order to cultivate innovative products and services, designers and developers need to research, ideate, and collaborate to develop creative approaches to current products or services, or even fill voids for users for products or services that have not been created.  Developers need to quickly build out prototypes of these ideas in order to not only implement the ideas and prove the value of the concept, but to also provide new products and/or services for the business itself (and keep the R&D department alive!).</p>
+								<p>Rapid prototyping is exactly as it sounds:  creating a prototype of a concept or an idea in a very short amount of time. For years, such rapid prototyping and development of various simulations was heavily dominated by the Flash and Actionscript world.  Now, with the speed and power of current JavaScript interpreters and its ubiquity across arguably the most used piece of software known to man (the web browser), JavaScript, in harmony with HTML and CSS is quickly becoming a go to resource for hashing out proofs of concepts.</p>
+								<p>From My Presentation, You Will Learn&hellip;</p>
+								<ul>
+									<li>What rapid prototyping is and why it is important.
+									<li>Some actual results of rapid prototyping (case studies).
+									<li>What tools you can use to build rapid prototypes (Titanium Desktop, Phonegap, HTML5 and CSS3, etc.).
+									<li>The value of technologies like YQL and various web service APIs
+								</ul>
 							</aside>
 						</td>
 						<td>Open</td>
