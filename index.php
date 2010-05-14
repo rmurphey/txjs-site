@@ -7,7 +7,7 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" /> 
     <meta name="author" content="http://yayquery.com/" /> 
     <title>TXJS | Texas Javascript Conference - June 5th, 2010</title> 
-    <link type="text/css" rel="stylesheet" media="all" href="css/base.css" /> 
+    <link type="text/css" rel="stylesheet" media="all" href="css/base.css?2" /> 
 
 	<!--[if IE]>
 	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -20,13 +20,6 @@
 	</ul>
 	
 	<div id="wrapper">
-	<!-- <nav>
-		<menu>
-			<li><a href="index.php">About</a></li>
-			<li><a href="speakers.php">Speakers</a></li>
-			<li><a href="sponsorship.php">Sponsorship</a></li>
-		</menu>
-	</nav> -->
 
 	<section id="mainbar">
 		<header id="flag"> 
@@ -48,91 +41,10 @@
 				<li><strong>Saturday Night</strong> After the conference, get your JavaScript on with a hack night and party at <a href="http://www.texascoworking.com/">Texas Coworking</a> on Austin&rsquo;s fabulous Sixth Street, sponsored by <a href="http://google.com">Google</a> and hosted by <a href="http://twitter.com/austinjs">Austin JS</a>.</li>
 			</ul>
 
-			<ul class="speakers">
-				<li>
-					<img src="images/brandon_aaron.jpg" alt="Brandon Aaron">
-					<p><strong>Brandon Aaron</strong>, jQuery team member</p>
-				</li>
-				<li>
-					<img src="images/tim_caswell.jpg" alt="Tim Caswell">
-					<p><strong>Tim Caswell</strong>, Node.js contributor and founder of <a href="http://howtonode.org">howtonode.org</a></p>
-				</li>
-				<li>
-					<img src="images/douglas_crockford.jpg" alt="Douglas Crockford">
-					<strong>Douglas Crockford</strong>, JavaScript architect at Yahoo! and author of "JavaScript: The Good Parts"
-				</li>
-				<li>
-					<img src="images/tom_croucher.jpg" alt="Tom Hughes-Croucher">
-					<p><strong>Tom Hughes-Croucher</strong>, technical evangelist at Yahoo!</p>
-				</li>
-				<li>
-					<img src="images/andrew_dupont.jpg" alt="Andrew Dupont">
-					<p><strong>Andrew Dupont</strong>, Prototype core team member</p>
-				</li>
-				<li>
-					<img src="images/peter_higgins.jpg" alt="Peter Higgins">
-					<p><strong>Peter Higgins</strong>, Dojo project lead</p>
-				</li>
-				<li>
-					<img src="images/paul_irish.jpg" alt="Paul Irish">
-					<p><strong>Paul Irish</strong>, jQuery team member and yayQuery podcast co-host</p>
-				</li>
-				<li>
-					<img src="images/brian_leroux.jpg" alt="Brian LeRoux">
-					<p><strong>Brian LeRoux</strong>, software architect at Nitobi and PhoneGap hacker/contributor</p>
-				</li>
-				<li>
-					<img src="images/joe_mccann.jpg" alt="Joe McCann">
-					<p><strong>Joe McCann</strong>, senior technologist at Frog Design</p>
-				</li>
-				<li>
-					<img src="images/tom_occhino.jpg" alt="Tom Occhino">
-					<p><strong>Tom Occhino</strong>, Facebook</p>
-				</li>
-				<li>
-					<img src="images/john_resig.jpg" alt="John Resig">
-					<p><strong>John Resig</strong>, creator of the jQuery JavaScript library</p>
-				</li>
-				<li>
-					<img src="images/alex_sexton.jpg" alt="Alex Sexton">
-					<p><strong>Alex Sexton</strong>, labs engineer at Bazaarvoice and yayQuery podcast co-host</p>
-				</li>
-				<li>
-					<img src="images/kyle_simpson.jpg" alt="Kyle Simpson">
-					<p><strong>Kyle Simpson</strong>, author of LABjs</p>
-				</li>
-				<li>
-					<img src="images/adam_sontag.jpg" alt="Adam Sontag">
-					<p><strong>Adam Sontag</strong>, jQuery UI developer relations team member and yayQuery podcast co-host</p>
-				</li>
-				<li>
-					<img src="images/nicole_sullivan.jpg" alt="Nicole Sullivan">
-					<p><strong>Nicole Sullivan</strong>, CSS ninja and performance engineer</p>
-				</li>
-				<li>
-					<img src="images/mike_taylor.jpg" alt="Mike Taylor">
-					<p><strong>Mike Taylor</strong>, HTML5 aficionado and front-end developer at Tunecore</p>
-				</li>
-				<li>
-					<img src="images/dan_webb.jpg" alt="Dan Webb">
-					<p><strong>Dan Webb</strong>, Twitter</p>
-				</li>
-				<li>
-					<img src="images/juriy_zaytsev.jpg" alt="Juriy Zaytsev">
-					<p><strong>Juriy Zaytsev</strong> (aka @kangax), expert JavaScript wrangler and Prototype core developer</p>
-				</li>
-			</ul>
-		
 
-			<!-- eventbrite iframe 
-			<div style="height:300px;overflow:hidden;"><iframe src="http://www.eventbrite.com/tickets-external?eid=582129164&ref=etckt" frameborder="0" marginwidth="5" marginheight="5" vspace="0" hspace="0" width="100%" height="300" allowtransparency="true" scrolling="auto"></iframe><a href="http://www.eventbrite.com/r/etckt"><img src="http://www.eventbrite.com/s.gif" alt="Events" border="0"/></a></div>
-			-->
-	
-		</section>
-		
 		<section id="schedule">
 			<header>
-				<h2>Schedule</h2>
+				<h2 class="code">Schedule</h2>
 			</header>
 			<table border="0">
 				<thead>
@@ -259,6 +171,86 @@
 				</tbody>
 			</table>
 		</section>
+
+
+			<h2 class="code">Speakers</h2>
+			<ul class="speakers">
+				<li>
+					<img src="images/brandon_aaron.jpg" alt="Brandon Aaron">
+					<p><strong>Brandon Aaron</strong>, jQuery team member</p>
+				</li>
+				<li>
+					<img src="images/tim_caswell.jpg" alt="Tim Caswell">
+					<p><strong>Tim Caswell</strong>, Node.js contributor and founder of <a href="http://howtonode.org">howtonode.org</a></p>
+				</li>
+				<li>
+					<img src="images/douglas_crockford.jpg" alt="Douglas Crockford">
+					<strong>Douglas Crockford</strong>, JavaScript architect at Yahoo! and author of "JavaScript: The Good Parts"
+				</li>
+				<li>
+					<img src="images/tom_croucher.jpg" alt="Tom Hughes-Croucher">
+					<p><strong>Tom Hughes-Croucher</strong>, technical evangelist at Yahoo!</p>
+				</li>
+				<li>
+					<img src="images/andrew_dupont.jpg" alt="Andrew Dupont">
+					<p><strong>Andrew Dupont</strong>, Prototype core team member</p>
+				</li>
+				<li>
+					<img src="images/peter_higgins.jpg" alt="Peter Higgins">
+					<p><strong>Peter Higgins</strong>, Dojo project lead</p>
+				</li>
+				<li>
+					<img src="images/paul_irish.jpg" alt="Paul Irish">
+					<p><strong>Paul Irish</strong>, jQuery team member and yayQuery podcast co-host</p>
+				</li>
+				<li>
+					<img src="images/brian_leroux.jpg" alt="Brian LeRoux">
+					<p><strong>Brian LeRoux</strong>, software architect at Nitobi and PhoneGap hacker/contributor</p>
+				</li>
+				<li>
+					<img src="images/joe_mccann.jpg" alt="Joe McCann">
+					<p><strong>Joe McCann</strong>, senior technologist at Frog Design</p>
+				</li>
+				<li>
+					<img src="images/tom_occhino.jpg" alt="Tom Occhino">
+					<p><strong>Tom Occhino</strong>, Facebook</p>
+				</li>
+				<li>
+					<img src="images/john_resig.jpg" alt="John Resig">
+					<p><strong>John Resig</strong>, creator of the jQuery JavaScript library</p>
+				</li>
+				<li>
+					<img src="images/alex_sexton.jpg" alt="Alex Sexton">
+					<p><strong>Alex Sexton</strong>, labs engineer at Bazaarvoice and yayQuery podcast co-host</p>
+				</li>
+				<li>
+					<img src="images/kyle_simpson.jpg" alt="Kyle Simpson">
+					<p><strong>Kyle Simpson</strong>, author of LABjs</p>
+				</li>
+				<li>
+					<img src="images/adam_sontag.jpg" alt="Adam Sontag">
+					<p><strong>Adam Sontag</strong>, jQuery UI developer relations team member and yayQuery podcast co-host</p>
+				</li>
+				<li>
+					<img src="images/nicole_sullivan.jpg" alt="Nicole Sullivan">
+					<p><strong>Nicole Sullivan</strong>, CSS ninja and performance engineer</p>
+				</li>
+				<li>
+					<img src="images/mike_taylor.jpg" alt="Mike Taylor">
+					<p><strong>Mike Taylor</strong>, HTML5 aficionado and front-end developer at Tunecore</p>
+				</li>
+				<li>
+					<img src="images/dan_webb.jpg" alt="Dan Webb">
+					<p><strong>Dan Webb</strong>, Twitter</p>
+				</li>
+				<li>
+					<img src="images/juriy_zaytsev.jpg" alt="Juriy Zaytsev">
+					<p><strong>Juriy Zaytsev</strong> (aka @kangax), expert JavaScript wrangler and Prototype core developer</p>
+				</li>
+			</ul>
+		
+		</section>
+		
 	</section>
 
 	<section id="promos">
