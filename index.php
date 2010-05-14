@@ -435,6 +435,7 @@
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js" type="text/javascript"></script> 
     <script src="js/jquery.jparallax.js" type="text/javascript"></script> 
     <script src="js/jquery.hoverIntent.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="js/jquery.easing.1.3.js" type="text/javascript" charset="utf-8"></script>
 	<script type="text/javascript"> 
 	// Localize
 	window.TX = $;
@@ -471,9 +472,14 @@
 				var pos = t.position()
 				pos.top += t.outerHeight();
 				pos.left = t.closest("tr").children().eq(1).offset().left;
-				return tip.stop(1,1).html(tooltip).css(pos).slideDown();
+				tip.stop(1,1).html(tooltip).css(pos).animate({
+						height:"show"
+					},800,"easeInCirc");
 			},function(e) {
-				return tip.stop(1,1).slideUp();
+				tip.stop(1,1).animate({
+					height:"hide"
+				},800,"easeOutCirc");
+				
 			});
 			
 		})
