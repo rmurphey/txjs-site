@@ -312,7 +312,7 @@ jQuery.fn.jparallax = function(options) {
 		
 		// Mouse Response
 		if (settings.mouseResponse) {
-			jQuery().mousemove(function(mouse){
+			jQuery(document).mousemove(function(mouse){
 				// Is mouse inside?
 				mouseport.xinside = (mouse.pageX >= mouseport.left && mouse.pageX < mouseport.width+mouseport.left) ? true : false;
 				mouseport.yinside = (mouse.pageY >= mouseport.top  && mouse.pageY < mouseport.height+mouseport.top)  ? true : false;
