@@ -460,8 +460,7 @@
 	    TX('#cloud3').css({'top':'60%', 'left': '75%'});
 
 		// Tooltips
-		var firstbreak = TX("td.break").first(),
-			tipwidth = firstbreak.outerWidth();// - parseInt(firstbreak.css("padding"));
+		var tipwidth = TX("td.break").first().outerWidth();
 			tip = TX("<div id='txtip' class='ui-tooltip ui-widget ui-widget-content'></div>").width(tipwidth).appendTo("body");
 		TX("#schedule td:has(aside)")
 		.each(function() {
