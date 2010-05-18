@@ -293,6 +293,10 @@
 					<p><strong>Paul Irish</strong>, jQuery team member and yayQuery podcast co-host</p>
 				</li>
 				<li>
+					<img src="images/eugene_lazutkin.jpg" alt="Eugene Lazutkin">
+					<p><strong>Eugene Lazutkin</strong>, Dojo committer</p>
+				</li>
+				<li>
 					<img src="images/brian_leroux.jpg" alt="Brian LeRoux">
 					<p><strong>Brian LeRoux</strong>, software architect at Nitobi and PhoneGap hacker/contributor</p>
 				</li>
@@ -315,10 +319,6 @@
 				<li>
 					<img src="images/kyle_simpson.jpg" alt="Kyle Simpson">
 					<p><strong>Kyle Simpson</strong>, author of LABjs</p>
-				</li>
-				<li>
-					<img src="images/adam_sontag.jpg" alt="Adam Sontag">
-					<p><strong>Adam Sontag</strong>, jQuery UI developer relations team member and yayQuery podcast co-host</p>
 				</li>
 				<li>
 					<img src="images/nicole_sullivan.jpg" alt="Nicole Sullivan">

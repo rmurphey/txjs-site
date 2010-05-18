@@ -1,0 +1,80 @@
+.content {
+	padding:10px;
+	color:#fff;
+	font-size:90%;
+}
+
+.content h3 {
+	margin:10px 0 5px 0;
+}
+
+#detail .content img {
+	float:right;
+	margin:0 0 10px 10px;
+}
+
+.track {
+	font-weight:normal;
+	color:#999;
+	font-size:70%;
+}
+
+#schedule li, #speakers li {
+	font-size:80%;
+}
+
+#parties li {
+	font-size:80%;
+	color:#fff;
+}
+
+#parties h2 {
+	color:#fff;
+}
+
+.sponsor {
+	margin:10px 0 0 0;
+	font-weight:normal;
+}
+
+li h3 {
+	margin:0 0 5px 0;
+}
+
+ul.edgetoedge li.sep {
+	color:#fff;
+}
+
+#sponsors .content {
+	text-align:center;
+	background-color:#fff;
+	color:#666;
+}
+
+#sponsors article {
+	display:block;
+}
+
+#sponsors h4 {
+	margin:10px 0 5px 0;
+}
+
+#sponsors .content img {
+	margin:5px 0 15px 0;
+}
+
+#home .content img {
+	float:left;
+	margin:0 10px 20px 0;
+}
+
+#home ul {
+	clear:both;
+	margin-top:15px;
+}
+
+#home .code {
+	padding:18px 0 0 0;
+	font-family:Courier;
+	font-size:120%;
+}
