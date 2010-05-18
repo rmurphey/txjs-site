@@ -99,12 +99,16 @@
 					</tr>
 					<tr>
 						<th scope   = "row">10:20-11:00</th>
-						<td><strong>John Resig</strong></td>
+						<td><strong>John Resig</strong>: JavaScript on the Mobile Web
+							<aside>
+								<p>While using JavaScript to write desktop web apps is well understood at this point, writing JavaScript for mobile web browsers is a complete mystery. What operating systems are used? What browsers are popular? Are they even capable of running modern JavaScript code? This talk will attempt to answer all of those questions and give you some insight into how you can test against mobile web browsers and craft your own mobile development strategy.</p>
+							</aside>
+						</td>
 						<td><strong>Mike Taylor</strong>: Regressive Enhancement, or HTML5 for crappy browsers
 							<aside>
 								<p>In this talk the audience will learn how to use JavaScript, in conjunction with feature detection, in order to use the new semantic elements provided by HTML5 (i.e., &lt;header&gt;, &lt;footer&gt;, &lt;nav&gt;), as well as emulate the new input types (i.e., type=date, type=range) and input attributes (i.e., autofocus, list, pattern), in a cross-browser, future-proof fashion. In order to do this, we'll walk through the creation of a few example jQuery plugins ($.fn.autofocus, $.fn.placeholder, $.fn.datalist).</p>
 								<p>Note that the primary focus will not be the specific mechanics of these example plugins--but rather how to use JavaScript as a stopgap solution while browser vendors work on implementing native support for these new features.</p>
-								<p>Alas, using HTML5 today is not all magic and ponies--there are certain risks. As such, this talk also discusses the risks of using these new elements and features in today’s most popular browsers with partial or no HTML5 support (what’s up, Internet Explorer), including AJAX, CSS (for screen and print media), and interacting with the DOM via jQuery.</p>
+								<p>Alas, using HTML5 today is not all magic and ponies--there are certain risks. As such, this talk also discusses the risks of using these new elements and features in today&rsquo;s most popular browsers with partial or no HTML5 support (what&rsquo;s up, Internet Explorer), including AJAX, CSS (for screen and print media), and interacting with the DOM via jQuery.</p>
 							</aside>
 						</td>
 						<td>Open</td>
@@ -122,16 +126,9 @@
 						</td>
 						<td><strong>Joe McCann</strong>: Rapid Prototyping with JavaScript
 							<aside>
-								<p>The area of Research and Development (R&D) in software, web and user interface engineering is making quite a statement in many large and small scale organizations lately.  With such a vast amount of data and web service APIs available to developers, coupled with a huge demand for multiple systems integrating seamlessly across several platforms and devices, it should come as no surprise that companies are creating “Labs” departments left and right to create the “next big thing.”</p>
+								<p>The area of Research and Development (R&amp;D) in software, web and user interface engineering is making quite a statement in many large and small scale organizations lately.  With such a vast amount of data and web service APIs available to developers, coupled with a huge demand for multiple systems integrating seamlessly across several platforms and devices, it should come as no surprise that companies are creating &ldquo;Labs&rdquo; departments left and right to create the &ldquo;next big thing.&rdquo;</p>
 								<p>In order to cultivate innovative products and services, designers and developers need to research, ideate, and collaborate to develop creative approaches to current products or services, or even fill voids for users for products or services that have not been created.  Developers need to quickly build out prototypes of these ideas in order to not only implement the ideas and prove the value of the concept, but to also provide new products and/or services for the business itself (and keep the R&D department alive!).</p>
 								<p>Rapid prototyping is exactly as it sounds:  creating a prototype of a concept or an idea in a very short amount of time. For years, such rapid prototyping and development of various simulations was heavily dominated by the Flash and Actionscript world.  Now, with the speed and power of current JavaScript interpreters and its ubiquity across arguably the most used piece of software known to man (the web browser), JavaScript, in harmony with HTML and CSS is quickly becoming a go to resource for hashing out proofs of concepts.</p>
-								<p>From My Presentation, You Will Learn&hellip;</p>
-								<ul>
-									<li>What rapid prototyping is and why it is important.
-									<li>Some actual results of rapid prototyping (case studies).
-									<li>What tools you can use to build rapid prototypes (Titanium Desktop, Phonegap, HTML5 and CSS3, etc.).
-									<li>The value of technologies like YQL and various web service APIs
-								</ul>
 							</aside>
 						</td>
 						<td>Open</td>
@@ -144,14 +141,12 @@
 						<th scope   = "row">12:00-12:40</th>
 						<td><strong>Paul Irish</strong>: 10 Things I Learned from the jQuery Source
 							<aside>
-								<p>Paul Irish will open the jQuery source on the big screen, and run through how the jQuery object works.<p>
-								<p>This talk will cover self executing anonymous functions as a global abatement technique, several interesting methods, internal jQuery paradigms, hiddenhancements, plugin architecture, and the evented model of application design.</p>
-								<p>So both javascript topics you can apply to your own code, along with the basics of how jQuery itself works.</p>
+								<p>It&rsquo;s jQuery on the big screen. We&rsquo;ll open the jQuery source and run through how the jQuery object works, covering self-executing anonymous functions as a global abatement technique, several interesting jQuery methods, internal jQuery paradigms, hiddenhancements, plugin architecture, and the evented model of application design. You&rsquo;ll learn JavaScript techniques you can apply to your own code, as well as the basic workings of jQuery itself.</p>
 							</aside>
 						</td>
 						<td><strong>Eugene Lazutkin</strong>: Dojo for Programmers
 							<aside>
-								<p>What Dojo offers to programmers: modules, OOP, AOP, FP. Overview of most popular techniques, and how Dojo implements them.</p>
+								<p>The Dojo Toolkit delivers many common programming paradigms to the world of JavaScript, including modules, OOP, AOP, and FP. In this talk, you&rsquo;ll get an overview of the most popular techniques, and learn how Dojo implements them.</p>
 							</aside>
 						</td>
 						<td>Open</td>
@@ -182,20 +177,16 @@
 						<th scope   = "row">2:30-3:10</th>
 						<td><strong>Tom Hughes-Croucher</strong>: JavaScript Everywhere! Creating a 100% JavaScript web stack
 							<aside>
-								<p>One of the costs of working on the web has traditionally been having to work in multiple languages. JavaScript has been the only choice for web front-ends but as soon as you start back-end work it can be anything from PHP to Python from Perl to Ruby or even C. Everything that is but JavaScript.</p>
-								<p>In the last year server-side JavaScript has leapt forward with a passion, partly due to CommonJS but also due to Node.js. With these new advances we have an opportunity to enjoy more code re-use, and faster more efficient pages.</p>
-								<p>This talk will explore server-side JavaScript and look at how we are using a JavaScript DOM/BOM to run YUI3 on Node.js. This allows us to:</p>
-								<ul>
-								   <li>Reuse the same code on the client and the server
-								   <li>Deliver targeted experiences to various classes of client
-								   <li>Smoke Test DOM operations during continuous integration
-								</ul>
+								<p>One of the costs of working on the web has traditionally been having to work in multiple languages. JavaScript has been the only choice for web front-ends, but as soon as you start back-end work, it can be anything from PHP to Python to Perl to Ruby or even C. Anything, that is, but JavaScript.</p>
+								<p>In the last year server-side JavaScript has leapt forward with a passion, partly due to CommonJS but also due to NodeJS. With these new advances we have an opportunity to enjoy more code re-use, and faster, more efficient pages.</p>
+								<p>We&rsquo;ll explore server-side JavaScript and look at how we can use a JavaScript DOM/BOM to run YUI3 on NodeJS, allowing us to reuse the same code on the client and the server, deliver targeted experiences to various classes of client, and smoke test DOM operations during continuous integration.</p>
+								
 						</td>
 						<td><strong>Andrew Dupont</strong>: How Custom Events Will Save The Universe
 							<aside>
 								<p>All the major frameworks support custom events. All framework authors love custom events and want you to <em>use</em> them. But few people actually do.</p>
-								<p>Custom events aren't a gimmick. The ability to fire your own events -- just like the browser fires <code>click</code>, <code>mousemove</code>, <code>focus</code>, and all the rest -- can solve many of the problems large JS projects face.</p>
-								<p>This talk will look at a handful of different recipes for integrating custom events into your own code. It'll show you how to fire custom events in each of the major JavaScript frameworks. It'll explore the advantages custom events have over a standard callback pattern.</p>		
+								<p>Custom events aren't a gimmick. The ability to fire your own events &mdash; just like the browser fires <code>click</code>, <code>mousemove</code>, <code>focus</code>, and all the rest &mdash; can solve many of the problems large JS projects face.</p>
+								<p>This talk will look at a handful of recipes for integrating custom events into your own code. It&rsquo;ll show you how to fire custom events in each of the major JavaScript frameworks. It'll explore the advantages custom events have over a standard callback pattern.</p>		
 							</aside>
 						</td>
 						<td>Open</td>
@@ -208,13 +199,13 @@
 						<th scope   = "row">3:20-4:00</th>
 						<td><strong>Juriy Zaytsev</strong>: Dive into ECMAScript 5
 							<aside>
-								<p>5th edition of ECMAScript (aka ES5) is the new, shiny version of ECMAScript standard — standard that defines what we know as Javascript. Officially completed only few months ago, ECMAScript 5 brings a whole slew of exciting new features, as well as changes to already existing functionality.</p>
-								<p>In this presentation, we'll dive into ECMAScript 5 to find out what makes it awesome. We'll talk about new model of "meta" attributes, and how it allows to create more robust code; we'll look at new strict mode, additions to built-in methods, and fixes to some of the annoying features of previous edition.</p>
+								<p>The 5th edition of ECMAScript (ES5) is the new, shiny version of ECMAScript standard — a standard that defines what we affectionately call &ldquo;Javascript.&rdquo; Officially completed only few months ago, ECMAScript 5 brings a slew of exciting new features, along with changes to existing functionality.</p>
+								<p>We&rsquo;ll dive into ECMAScript 5 to find out what makes it awesome. We&rsquo;ll talk about the new model of &ldquo;meta&rdquo; attributes, and how it allows us to create more robust code. We&rsquo;ll also look at the new strict mode, additions to built-in methods, and fixes to some of the annoying features of previous editions.</p>
 							</aside>
 						</td>
 						<td><strong>Brandon Aaron</strong>: Special Events: Beyond Custom Events
 							<aside>
-								<p>Working with events is just part of working with the web. Events help us keep track of what our users are doing, what our server is sending us, and how one part of our app can communicate with another part. jQuery's event system is flexible and intuitive, letting you handle both DOM and custom events with the same API. What if you could hook directly into jQuery's event system to add additional functionality to events as they are bound and unbound? You could create some pretty awesome and complex custom events, and you can do it with jQuery right now! They are called Special Events. Learn how to create events that go beyond just the standard custom event.</p>
+								<p>Working with events is just part of working with the web. Events help us keep track of what our users are doing and what our server is sending us, and allow one part of our app to communicate with another part. jQuery&rsquo;s event system is flexible and intuitive, letting you handle both DOM and custom events with the same API. What if you could hook directly into jQuery&rsquo;s event system to add functionality to events as they are bound and unbound? You could create some pretty awesome and complex custom events, and you can do it with jQuery right now using Special Events. Learn how to create events that go beyond the standard custom event.</p>
 							</aside>
 						</td>
 						<td>Open</td>
@@ -227,13 +218,14 @@
 						<th scope   = "row">4:10-4:50</th>
 						<td><strong>Peter Higgins</strong>: It's Just JavaScript
 							<aside>
-								<p>A pro-anti-library discussion illustrating how painfully similar library functionality is, and how, in the end, it is all "Just JavaScript". Having a sound understanding of the language should not only be a prerequisite to using a "Library" but will make your understanding and proficiency with said Library exponentially better.</p>
+								<p>A pro-anti-library discussion illustrating how painfully similar library functionality is, and how, in the end, it is all &ldquo;Just JavaScript.&rdquo; Having a sound understanding of the language should not only be a prerequisite to using a &ldquo;Library&rdquo;, but will also exponentially increase your understanding of and proficiency with said Library. 
+								</p>
 							</aside>
 						</td>
 						<td><strong>Tim Caswell</strong>: Writing a real-time game with NodeJS
 							<aside>
-								<p>Thanks to the hard work of the people at CommonJS and Ryan Dahl's work on NodeJS, server-side JavaScript is not only a possibility, but a remarkable way to make simple, fast servers.  This talk will quickly go over the architecture of node, why it's fast and simple at the same time.  We'll discuss the benefits of the single threaded model and why you would even care.</p>
-								<p>Then the talk will shift gears and walk the audience through building the backend to a real-time multi-player game that uses the latest and greatest technologies in the browser.  We'll go over various techniques needed to manage code complexity and the high-level concepts used to keep several players on different browsers in sync with each-other.</p>
+								<p>Thanks to the hard work of the people at CommonJS and Ryan Dahl&rsquo;s work on NodeJS, server-side JavaScript is not only a possibility, but a remarkable way to make simple, fast servers.  This talk will quickly go over the architecture of node, why it&rsquo;s fast and simple at the same time.  We&rsquo;ll discuss the benefits of the single threaded model and why you would even care.</p>
+								<p>Then the talk will shift gears and walk the audience through building the backend to a real-time multi-player game that uses the latest and greatest technologies in the browser.  We&rsquo;ll go over various techniques needed to manage code complexity and the high-level concepts used to keep several players on different browsers in sync with each-other.</p>
 							</aside>
 						</td>
 						<td>Open</td>
@@ -246,19 +238,13 @@
 						<th scope   = "row">5:00-5:40</th>
 						<td><strong>Brian LeRoux</strong>: F#$% Yeah, Mobile JavaScript	
 							<aside>
-<p>The rundown on the mobile web and how your JavaScript can even more awesome using XUI, Lawnchair and PhoneGap. This talk will be a gnarly journey through the urban jungle that is the mobile landscape and, like spiderman, we'll be throwing webs all over the place. Face!</p>
+								<p>A rundown on the mobile web and how your JavaScript can be even more awesome using XUI, Lawnchair, and PhoneGap. This talk will be a gnarly journey through the urban jungle that is the mobile landscape and, like Spider-Man, we&rsquo;ll be throwing webs all over the place. Face!</p>
 							</aside>							
 						</td>
 						<td><strong>Kyle Simpson</strong>: Web Performance &amp; UI Architecture
 							<aside>
 							<p>We all know that web performance optimization is becoming critical to the success of web sites/applications. The problem is, we often don't have the control over the UI Architecture ("middle-end") that we need to really make things better.</p>
 							<p>We'll talk about how to use JavaScript (client- and server-side) to revamp the middle-end so we can throttle web performance (and code maintainability) to the next level.</p>
-							<ul>
-								<li>BikechainJS server-side JavaScript
-								<li>HandlebarJS templating
-								<li>LABjs client-side script loading
-								<li>LABjs on the server!						
-							</ul>
 						</td>
 						<td>Open</td>
 					</tr>
