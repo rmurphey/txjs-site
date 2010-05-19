@@ -34,17 +34,16 @@ $(function() {
 		});
 	});
 	
-	$('#sponsors').bind('pageAnimationEnd', function() {
+	$('#sponsors').bind('pageAnimationStart', function() {
 		var target = $(this).find('.content');
 		if (target.data('loaded')) { return; }
 		
-		target.append('<div class="loading">Loading &hellip;</div>');
+		target.html('<div class="loading">Loading &hellip;</div>');
 		target.load('sponsors.html', function() { target.data('loaded', true); });
 	});
 
-	$('#parties ul').bind('touchend', function(e) {
-		e.preventDefault();
-		window.location.href = $(this).find('a').attr('href');
+	$('#directions a').bind('click', function(e) {
+		$(this).removeClass('active');
 	});
 	
 	$('#sponsors .content').delegate('a', 'click', function() {
