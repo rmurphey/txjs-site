@@ -1,14 +1,14 @@
 new $.jQTouch({
     icon: 'img/icon.png',
     startupScreen: 'img/startup.png',
-    statusBar: 'red',
+    statusBar: 'black',
     preloadImages: [
         'js/jqtouch/themes/jqt/img/back_button.png',
-        'js/jqtouch/themes/jqt/img/back_button_clicked.png',
-        'js/jqtouch/themes/jqt/img/button_clicked.png',
-        'js/jqtouch/themes/jqt/img/grayButton.png',
-        'js/jqtouch/themes/jqt/img/whiteButton.png',
-        'js/jqtouch/themes/jqt/img/loading.gif'
+        'js/jqtouch/themes/jqt/img/back_button_clicked.png'
+        // 'js/jqtouch/themes/jqt/img/button_clicked.png',
+        // 'js/jqtouch/themes/jqt/img/grayButton.png',
+        // 'js/jqtouch/themes/jqt/img/whiteButton.png',
+        // 'js/jqtouch/themes/jqt/img/loading.gif'
         ]
 });
 
@@ -39,16 +39,17 @@ $(function() {
 		});
 	});
 	
-	$('#parties ul').bind('click', function(e) {
-		e.preventDefault();
-		window.location.href = $(this).find('a').attr('href');
-	});
-	
 	$('#sponsors').bind('pageAnimationEnd', function() {
 		var target = $(this).find('.content');
 		if (target.data('loaded')) { return; }
 		
 		target.append('<div class="loading">Loading &hellip;</div>');
 		target.load('sponsors.html', function() { target.data('loaded', true); });
-	})
+	});
+
+	$('#parties ul').bind('click', function(e) {
+		e.preventDefault();
+		window.location.href = $(this).find('a').attr('href');
+	});
+	
 });
