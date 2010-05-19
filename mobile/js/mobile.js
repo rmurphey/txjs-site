@@ -42,9 +42,13 @@ $(function() {
 		target.load('sponsors.html', function() { target.data('loaded', true); });
 	});
 
-	$('#parties ul').bind('click', function(e) {
+	$('#parties ul').bind('touchend', function(e) {
 		e.preventDefault();
 		window.location.href = $(this).find('a').attr('href');
+	});
+	
+	$('#sponsors .content').delegate('a', 'click', function() {
+		window.open($(this).attr('href'));
 	});
 	
 });
