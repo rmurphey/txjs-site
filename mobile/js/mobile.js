@@ -5,11 +5,7 @@ new $.jQTouch({
     preloadImages: [
         'js/jqtouch/themes/jqt/img/back_button.png',
         'js/jqtouch/themes/jqt/img/back_button_clicked.png'
-        // 'js/jqtouch/themes/jqt/img/button_clicked.png',
-        // 'js/jqtouch/themes/jqt/img/grayButton.png',
-        // 'js/jqtouch/themes/jqt/img/whiteButton.png',
-        // 'js/jqtouch/themes/jqt/img/loading.gif'
-        ]
+    ]
 });
 
 $(function() {
@@ -17,31 +13,24 @@ $(function() {
 		speakerName = $('#speakers h1'),
 		speaker;
 
-	$('#speakers li a, #schedule li a').bind('click', function() {
+	$('#speakers li a, #schedule li a').bind('touchend', function() {
 		speaker = $(this).attr('data-name');
 	});
 	
 	$('#detail').bind('pageAnimationStart', function() {
-		if (!speaker) { return; }
-		
 		var page = $(this), 
 			content = cache[speaker], 
-			target = page.find('.content').html('<div class="loading">Loading</div>'),
-			doTitle = function() {
-				page.find('.toolbar h1').text(target.find('h2').remove().text());
-			};
+			target = page.find('.content').html('<div class="loading">Loading</div>');
 			
 		speakerName.empty();
 		
 		if (content) {
 			target.html(content);
-			doTitle();
 			return;
 		}
 		
 		target.load('speakers/' + speaker + '.html', function(r) {
 			cache[speaker] = r;
-			doTitle();
 		});
 	});
 	
