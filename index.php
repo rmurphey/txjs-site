@@ -180,6 +180,7 @@
 								<p>One of the costs of working on the web has traditionally been having to work in multiple languages. JavaScript has been the only choice for web front-ends, but as soon as you start back-end work, it can be anything from PHP to Python to Perl to Ruby or even C. Anything, that is, but JavaScript.</p>
 								<p>In the last year server-side JavaScript has leapt forward with a passion, partly due to CommonJS but also due to NodeJS. With these new advances we have an opportunity to enjoy more code re-use, and faster, more efficient pages.</p>
 								<p>We&rsquo;ll explore server-side JavaScript and look at how we can use a JavaScript DOM/BOM to run YUI3 on NodeJS, allowing us to reuse the same code on the client and the server, deliver targeted experiences to various classes of client, and smoke test DOM operations during continuous integration.</p>
+							</aside>
 								
 						</td>
 						<td><strong>Andrew Dupont</strong>: How Custom Events Will Save The Universe
@@ -274,7 +275,7 @@
 				</li>
 				<li>
 					<img src="images/douglas_crockford.jpg" alt="Douglas Crockford">
-					<strong>Douglas Crockford</strong>, JavaScript architect at Yahoo! and author of "JavaScript: The Good Parts"
+					<p><strong>Douglas Crockford</strong>, JavaScript architect at Yahoo! and author of "JavaScript: The Good Parts"</p>
 				</li>
 				<li>
 					<img src="images/tom_croucher.jpg" alt="Tom Hughes-Croucher">
