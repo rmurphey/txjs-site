@@ -37,6 +37,8 @@
 			</header>
 
 			<p class="intro">TXJS is a full-day conference in Austin, Texas, featuring some of the best minds in JavaScript.</p>
+
+			<p>Please note that TXJS is <strong>sold out</strong>. You can <a href="https://www.eventbrite.com/waitlist?eid=582129164&tid=0">add your name to the waiting list</a>.</p>
 						
 			<ul>
 				<li><strong>Friday Night</strong> Gather your strength for a full day of JavaScript by joining us at <a href="http://www.gingermanpub.com/">The Ginger Man</a> in downtown Austin from 6 p.m. - 8 p.m. for TXJS Hapy Hour. Sponsored by <a href="http://facebook.com">Facebook</a> &mdash; the first two beers are on the house!</li>
