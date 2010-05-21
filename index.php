@@ -18,7 +18,7 @@
 </head> 
 <body> 
 	<ul id="banner">
-		<li class="news"><strong>News:</strong> Microsoft is sponsoring a shuttle to get you to &amp; from The Marchesa!</li>
+		<li class="news"><strong>News:</strong> TXJS is sold out! <a href="https://www.eventbrite.com/waitlist?eid=582129164&tid=0">Add your name to the waiting list</a>.</li>
 		<a href="http://twitter.com/txjs"><li class="twitter">Follow @txjs on Twitter</li></a>
 	</ul>
 	
