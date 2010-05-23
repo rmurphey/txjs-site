@@ -13,7 +13,7 @@ $(function() {
 		speakerName = $('#speakers h1'),
 		speaker;
 
-	$('#speakers li a, #schedule li a').bind('touchend', function() {
+	$('#speakers li a, #schedule li a').bind('touchend click', function() {
 		speaker = $(this).attr('data-name');
 	});
 	
@@ -47,6 +47,10 @@ $(function() {
 	});
 	
 	$('#sponsors .content').delegate('a', 'click', function() {
+		window.open($(this).attr('href'));
+	});
+	
+	$('#detail .content').delegate('a.rate', 'click', function() {
 		window.open($(this).attr('href'));
 	});
 	
