@@ -50,6 +50,7 @@
 		<section id="schedule">
 			<header>
 				<h2 class="code">Schedule</h2>
+				<p>Be sure to rate the talks on <a href="http://speakerrate.com/events/350-txjs-texas-javascript-2010">SpeakerRate</a>!</p>
 			</header>
 			<table border="0">
 				<thead>
