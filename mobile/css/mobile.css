@@ -96,3 +96,7 @@ ul.edgetoedge li.sep {
 	font-family:Courier;
 	font-size:120%;
 }
+
+.nodetail {
+	color:#fff !important;
+}
