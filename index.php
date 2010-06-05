@@ -82,7 +82,7 @@
 					<tr>
 						<th scope   = "row">9:20-10:10</th>
 						<td>
-							<strong>Douglas Crockford</strong>: Really, JavaScript? <small><a href="http://spkr8.com/t/3306"></a>spkr8.com/t/3306</small>
+							<strong>Douglas Crockford</strong>: Really, JavaScript? <small><a href="http://spkr8.com/t/3306">spkr8.com/t/3306</a></small>
 							<aside>
 								<p>First misunderstanding, then huge semipopularity, and now, respect. Despite its many obvious deficiencies, JavaScript has gotten something profoundly right. What does the future hold for this duckling? </p>
 							</aside>
