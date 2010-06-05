@@ -134,7 +134,7 @@
 								<p>Rapid prototyping is exactly as it sounds:  creating a prototype of a concept or an idea in a very short amount of time. For years, such rapid prototyping and development of various simulations was heavily dominated by the Flash and Actionscript world.  Now, with the speed and power of current JavaScript interpreters and its ubiquity across arguably the most used piece of software known to man (the web browser), JavaScript, in harmony with HTML and CSS is quickly becoming a go to resource for hashing out proofs of concepts.</p>
 							</aside>
 						</td>
-						<td>Open</td>
+						<td><strong>Douglas Crockford</strong>: The JSON Saga</td>
 					</tr>
 					<tr>
 						<th scope   = "row">11:50-12:00</th>
@@ -152,7 +152,7 @@
 								<p>The Dojo Toolkit delivers many common programming paradigms to the world of JavaScript, including modules, OOP, AOP, and FP. In this talk, you&rsquo;ll get an overview of the most popular techniques, and learn how Dojo implements them.</p>
 							</aside>
 						</td>
-						<td>Open</td>
+						<td><strong>Jeffrey Van Gogh</strong>: Reactive Extensions for JavaScript </td>
 					</tr>
 					<tr>
 						<th scope   = "row">12:40-1:40</th>
@@ -193,7 +193,7 @@
 								<p>This talk will look at a handful of recipes for integrating custom events into your own code. It&rsquo;ll show you how to fire custom events in each of the major JavaScript frameworks. It'll explore the advantages custom events have over a standard callback pattern.</p>		
 							</aside>
 						</td>
-						<td>Open</td>
+						<td><strong>John Hann</strong>: Sneak Peek: Cujo - Dojo, CSS3, MVC</td>
 					</tr>
 					<tr>
 						<th scope   = "row">3:10-3:20</th>
@@ -212,7 +212,7 @@
 								<p>Working with events is just part of working with the web. Events help us keep track of what our users are doing and what our server is sending us, and allow one part of our app to communicate with another part. jQuery&rsquo;s event system is flexible and intuitive, letting you handle both DOM and custom events with the same API. What if you could hook directly into jQuery&rsquo;s event system to add functionality to events as they are bound and unbound? You could create some pretty awesome and complex custom events, and you can do it with jQuery right now using Special Events. Learn how to create events that go beyond the standard custom event.</p>
 							</aside>
 						</td>
-						<td>Open</td>
+						<td><strong>Jason Huggins</strong>: JavaScript Frameworks &amp; Functional Testing</td>
 					</tr>
 					<tr>
 						<th scope   = "row">4:00-4:10</th>
