@@ -82,12 +82,12 @@
 					<tr>
 						<th scope   = "row">9:20-10:10</th>
 						<td>
-							<strong>Douglas Crockford</strong>: Really, JavaScript?
+							<strong>Douglas Crockford</strong>: Really, JavaScript? <small><a href="http://spkr8.com/t/3306"></a>spkr8.com/t/3306</small>
 							<aside>
-								<p>First misunderstanding, then huge semipopularity, and now, respect. Despite its many obvious deficiencies, JavaScript has gotten something profoundly right. What does the future hold for this duckling?</p>
+								<p>First misunderstanding, then huge semipopularity, and now, respect. Despite its many obvious deficiencies, JavaScript has gotten something profoundly right. What does the future hold for this duckling? </p>
 							</aside>
 						</td>
-						<td><strong>Tom Occhino</strong>: Front End Abstractions at Facebook
+						<td><strong>Tom Occhino</strong>: Front End Abstractions at Facebook <small><a href="http://spkr8.com/t/3314">spkr8.com/t/3314</a></small>
 							<aside>
 								<p>Facebook has seen incredible growth over the past few years and currently has over 400 million active users.  In order to face some of the challenges that come with such tremendous growth, we've developed some advanced abstractions around our front end infrastructure.  These systems allow us to write more modular code, serve pages up faster, provide our users with a better experience, and save us money.</p>
 								<p>In my talk I'll go over some of these abstractions like Haste, Primer, Quickling, PageCache, and BigPipe, in order to paint a better picture of how Facebook works, and give the audience some ideas of how to architect their own systems around technologies that have proven to be very successful for Facebook.
@@ -102,12 +102,12 @@
 					</tr>
 					<tr>
 						<th scope   = "row">10:20-11:00</th>
-						<td><strong>John Resig</strong>: JavaScript on the Mobile Web
+						<td><strong>John Resig</strong>: JavaScript on the Mobile Web <small><a href="http://spkr8.com/t/3315">spkr8.com/t/3315</a></small>
 							<aside>
 								<p>While using JavaScript to write desktop web apps is well understood at this point, writing JavaScript for mobile web browsers is a complete mystery. What operating systems are used? What browsers are popular? Are they even capable of running modern JavaScript code? This talk will attempt to answer all of those questions and give you some insight into how you can test against mobile web browsers and craft your own mobile development strategy.</p>
 							</aside>
 						</td>
-						<td><strong>Mike Taylor</strong>: Regressive Enhancement, or HTML5 for crappy browsers
+						<td><strong>Mike Taylor</strong>: Regressive Enhancement, or HTML5 for crappy browsers <small><a href="http://spkr8.com/t/3319">spkr8.com/t/3319</a></small>
 							<aside>
 								<p>In this talk the audience will learn how to use JavaScript, in conjunction with feature detection, in order to use the new semantic elements provided by HTML5 (i.e., &lt;header&gt;, &lt;footer&gt;, &lt;nav&gt;), as well as emulate the new input types (i.e., type=date, type=range) and input attributes (i.e., autofocus, list, pattern), in a cross-browser, future-proof fashion. In order to do this, we'll walk through the creation of a few example jQuery plugins ($.fn.autofocus, $.fn.placeholder, $.fn.datalist).</p>
 								<p>Note that the primary focus will not be the specific mechanics of these example plugins--but rather how to use JavaScript as a stopgap solution while browser vendors work on implementing native support for these new features.</p>
@@ -122,12 +122,12 @@
 					</tr>
 					<tr>
 						<th scope   = "row">11:10-11:50</th>
-						<td><strong>Dan Webb</strong>: Building @anywhere: A Client-side Interface to Twitter
+						<td><strong>Dan Webb</strong>: Building @anywhere: A Client-side Interface to Twitter <small><a href="http://spkr8.com/t/3320">spkr8.com/t/3320</a></small>
 							<aside>
 								<p>@anywhere is a platform which provides developers with the ability to create fully featured Twitter applications from pure client-side JavaScript.  This presentation will quickly introduce @anywhere then dive into what it took to build the platform.  We'll talk cross-domain communication, client-only authentication and security, iframes (oh, the iframes!) and lots more as in order to explain what it took to provide Twitter's API over pure JavaScript and how you could use similar techniques to expose a pure JavaScript interface to your web application.</p>
 							</aside>
 						</td>
-						<td><strong>Joe McCann</strong>: Rapid Prototyping with JavaScript
+						<td><strong>Joe McCann</strong>: Rapid Prototyping with JavaScript <small><a href="http://spkr8.com/t/3313">spkr8.com/t/3313</a></small>
 							<aside>
 								<p>The area of Research and Development (R&amp;D) in software, web and user interface engineering is making quite a statement in many large and small scale organizations lately.  With such a vast amount of data and web service APIs available to developers, coupled with a huge demand for multiple systems integrating seamlessly across several platforms and devices, it should come as no surprise that companies are creating &ldquo;Labs&rdquo; departments left and right to create the &ldquo;next big thing.&rdquo;</p>
 								<p>In order to cultivate innovative products and services, designers and developers need to research, ideate, and collaborate to develop creative approaches to current products or services, or even fill voids for users for products or services that have not been created.  Developers need to quickly build out prototypes of these ideas in order to not only implement the ideas and prove the value of the concept, but to also provide new products and/or services for the business itself (and keep the R&D department alive!).</p>
@@ -142,12 +142,12 @@
 					</tr>
 					<tr>
 						<th scope   = "row">12:00-12:40</th>
-						<td><strong>Paul Irish</strong>: 10 Things I Learned from the jQuery Source
+						<td><strong>Paul Irish</strong>: 10 Things I Learned from the jQuery Source <small><a href="http://spkr8.com/t/3310">spkr8.com/t/3310</a></small>
 							<aside>
 								<p>It&rsquo;s jQuery on the big screen. We&rsquo;ll open the jQuery source and run through how the jQuery object works, covering self-executing anonymous functions as a global abatement technique, several interesting jQuery methods, internal jQuery paradigms, hiddenhancements, plugin architecture, and the evented model of application design. You&rsquo;ll learn JavaScript techniques you can apply to your own code, as well as the basic workings of jQuery itself.</p>
 							</aside>
 						</td>
-						<td><strong>Eugene Lazutkin</strong>: Dojo for Programmers
+						<td><strong>Eugene Lazutkin</strong>: Dojo for Programmers <small><a href="http://spkr8.com/t/3311">spkr8.com/t/3311</a></small>
 							<aside>
 								<p>The Dojo Toolkit delivers many common programming paradigms to the world of JavaScript, including modules, OOP, AOP, and FP. In this talk, you&rsquo;ll get an overview of the most popular techniques, and learn how Dojo implements them.</p>
 							</aside>
@@ -160,12 +160,12 @@
 					</tr>
 					<tr>
 						<th scope   = "row">1:40-2:20</th>
-						<td><strong>Nicole Sullivan</strong>: The Top 5 Mistakes of Massive CSS
+						<td><strong>Nicole Sullivan</strong>: The Top 5 Mistakes of Massive CSS <small><a href=""></a></small>
 							<aside>
 								<p>Your website has out-of-control CSS bloat. You know your performance is being impacted, but how do you move from organic CSS with no particular architecture to something lighter, more logical, and easier to maintain? In this session, Nicole Sullivan will show you how she improved the CSS at Facebook, Yahoo!, and the W3C.</p>
 							</aside>
 						</td>
-						<td><strong>Alex Sexton</strong>: Breaking The Cross Domain Barrier
+						<td><strong>Alex Sexton</strong>: Breaking The Cross Domain Barrier <small><a href=""></a></small>
 							<aside>
 								<p>If you had to rank the best and worst moments of your JavaScript life, you'd probably rank reading "The Good Parts" up towards the top, and deep down at the bottom of the list would be the day that you found out that you couldn't make cross-domain requests in the browser. This talk covers the hacks, tips, and tricks to leave the Same Origin Policy in the dust. So grab a cookie, pad your json, and learn how to communicate properly.</p>
 							</aside>
@@ -178,7 +178,7 @@
 					</tr>
 					<tr>
 						<th scope   = "row">2:30-3:10</th>
-						<td><strong>Tom Hughes-Croucher</strong>: JavaScript Everywhere! Creating a 100% JavaScript web stack
+						<td><strong>Tom Hughes-Croucher</strong>: JavaScript Everywhere! Creating a 100% JavaScript web stack <small><a href=""></a></small>
 							<aside>
 								<p>One of the costs of working on the web has traditionally been having to work in multiple languages. JavaScript has been the only choice for web front-ends, but as soon as you start back-end work, it can be anything from PHP to Python to Perl to Ruby or even C. Anything, that is, but JavaScript.</p>
 								<p>In the last year server-side JavaScript has leapt forward with a passion, partly due to CommonJS but also due to NodeJS. With these new advances we have an opportunity to enjoy more code re-use, and faster, more efficient pages.</p>
@@ -186,7 +186,7 @@
 							</aside>
 								
 						</td>
-						<td><strong>Andrew Dupont</strong>: How Custom Events Will Save The Universe
+						<td><strong>Andrew Dupont</strong>: How Custom Events Will Save The Universe <small><a href=""></a></small>
 							<aside>
 								<p>All the major frameworks support custom events. All framework authors love custom events and want you to <em>use</em> them. But few people actually do.</p>
 								<p>Custom events aren't a gimmick. The ability to fire your own events &mdash; just like the browser fires <code>click</code>, <code>mousemove</code>, <code>focus</code>, and all the rest &mdash; can solve many of the problems large JS projects face.</p>
@@ -201,13 +201,13 @@
 					</tr>
 					<tr>
 						<th scope   = "row">3:20-4:00</th>
-						<td><strong>Juriy Zaytsev</strong>: Dive into ECMAScript 5
+						<td><strong>Juriy Zaytsev</strong>: Dive into ECMAScript 5 <small><a href=""></a></small>
 							<aside>
 								<p>The 5th edition of ECMAScript (ES5) is the new, shiny version of ECMAScript standard — a standard that defines what we affectionately call &ldquo;Javascript.&rdquo; Officially completed only few months ago, ECMAScript 5 brings a slew of exciting new features, along with changes to existing functionality.</p>
 								<p>We&rsquo;ll dive into ECMAScript 5 to find out what makes it awesome. We&rsquo;ll talk about the new model of &ldquo;meta&rdquo; attributes, and how it allows us to create more robust code. We&rsquo;ll also look at the new strict mode, additions to built-in methods, and fixes to some of the annoying features of previous editions.</p>
 							</aside>
 						</td>
-						<td><strong>Brandon Aaron</strong>: Special Events: Beyond Custom Events
+						<td><strong>Brandon Aaron</strong>: Special Events: Beyond Custom Events <small><a href=""></a></small>
 							<aside>
 								<p>Working with events is just part of working with the web. Events help us keep track of what our users are doing and what our server is sending us, and allow one part of our app to communicate with another part. jQuery&rsquo;s event system is flexible and intuitive, letting you handle both DOM and custom events with the same API. What if you could hook directly into jQuery&rsquo;s event system to add functionality to events as they are bound and unbound? You could create some pretty awesome and complex custom events, and you can do it with jQuery right now using Special Events. Learn how to create events that go beyond the standard custom event.</p>
 							</aside>
@@ -220,13 +220,13 @@
 					</tr>
 					<tr>
 						<th scope   = "row">4:10-4:50</th>
-						<td><strong>Peter Higgins</strong>: It's Just JavaScript
+						<td><strong>Peter Higgins</strong>: It's Just JavaScript <small><a href=""></a></small>
 							<aside>
 								<p>A pro-anti-library discussion illustrating how painfully similar library functionality is, and how, in the end, it is all &ldquo;Just JavaScript.&rdquo; Having a sound understanding of the language should not only be a prerequisite to using a &ldquo;Library&rdquo;, but will also exponentially increase your understanding of and proficiency with said Library. 
 								</p>
 							</aside>
 						</td>
-						<td><strong>Tim Caswell</strong>: Writing a real-time game with NodeJS
+						<td><strong>Tim Caswell</strong>: Writing a real-time game with NodeJS <small><a href=""></a></small>
 							<aside>
 								<p>Thanks to the hard work of the people at CommonJS and Ryan Dahl&rsquo;s work on NodeJS, server-side JavaScript is not only a possibility, but a remarkable way to make simple, fast servers.  This talk will quickly go over the architecture of node, why it&rsquo;s fast and simple at the same time.  We&rsquo;ll discuss the benefits of the single threaded model and why you would even care.</p>
 								<p>Then the talk will shift gears and walk the audience through building the backend to a real-time multi-player game that uses the latest and greatest technologies in the browser.  We&rsquo;ll go over various techniques needed to manage code complexity and the high-level concepts used to keep several players on different browsers in sync with each-other.</p>
@@ -240,12 +240,12 @@
 					</tr>
 					<tr>
 						<th scope   = "row">5:00-5:40</th>
-						<td><strong>Brian LeRoux</strong>: F#$% Yeah, Mobile JavaScript	
+						<td><strong>Brian LeRoux</strong>: F#$% Yeah, Mobile JavaScript	 <small><a href=""></a></small>
 							<aside>
 								<p>A rundown on the mobile web and how your JavaScript can be even more awesome using XUI, Lawnchair, and PhoneGap. This talk will be a gnarly journey through the urban jungle that is the mobile landscape and, like Spider-Man, we&rsquo;ll be throwing webs all over the place. Face!</p>
 							</aside>							
 						</td>
-						<td><strong>Kyle Simpson</strong>: Web Performance &amp; UI Architecture
+						<td><strong>Kyle Simpson</strong>: Web Performance &amp; UI Architecture <small><a href=""></a></small>
 							<aside>
 							<p>We all know that web performance optimization is becoming critical to the success of web sites/applications. The problem is, we often don't have the control over the UI Architecture ("middle-end") that we need to really make things better.</p>
 							<p>We'll talk about how to use JavaScript (client- and server-side) to revamp the middle-end so we can throttle web performance (and code maintainability) to the next level.</p>
