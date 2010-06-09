@@ -18,7 +18,6 @@
 </head> 
 <body> 
 	<ul id="banner">
-		<li class="news"><strong>News:</strong> TXJS is sold out! <a href="https://www.eventbrite.com/waitlist?eid=582129164&tid=0">Add your name to the waiting list</a>.</li>
 		<a href="http://twitter.com/txjs"><li class="twitter">Follow @txjs on Twitter</li></a>
 	</ul>
 	
@@ -38,14 +37,58 @@
 
 			<p class="intro">TXJS is a full-day conference in Austin, Texas, featuring some of the best minds in JavaScript.</p>
 
-			<p>Please note that TXJS is <strong>sold out</strong>. You can <a href="https://www.eventbrite.com/waitlist?eid=582129164&tid=0">add your name to the waiting list</a>.</p>
-						
 			<ul>
 				<li><strong>Friday Night</strong> Gather your strength for a full day of JavaScript by joining us at <a href="http://www.gingermanpub.com/">The Ginger Man</a> in downtown Austin from 6 p.m. - 8 p.m. for TXJS Hapy Hour. Sponsored by <a href="http://facebook.com">Facebook</a> &mdash; the first two beers are on the house!</li>
 				<li><strong>Saturday Day</strong> A whole lotta JavaScripters hanging out from 9 a.m. - 6 p.m. at the <a href="http://www.themarchesa.com/">Marchesa Hall &amp; Theater</a> &mdash; we&rsquo;ll have three rooms with speakers going all day, plus a lounge for informal conversation and hacking. <strong>Registration starts at 8:15 a.m.</strong></li>
 				<li><strong>Saturday Night</strong> After the conference, get your JavaScript on with a hack night and party at <a href="http://www.texascoworking.com/">Texas Coworking</a> on Austin&rsquo;s fabulous Sixth Street, sponsored by <a href="http://google.com">Google</a> and hosted by <a href="http://twitter.com/austinjs">Austin JS</a>.</li>
 			</ul>
-
+			
+		<section id="links">
+			<header>
+				<h2 class="code">Links</h2>
+			</header>
+			<ul>
+				<li><a href="http://oksoclap.com/txjs">Collaborative notes</a></li>
+				<li><a href="http://blip.tv/search?q=txjs">Videos</a> (thanks <a href="http://twitter.com/springnet">@springnet</a>!)</li>
+				<li><a href="http://twitter.com/#search?q=txjs">#txjs on Twitter</a></li>
+			</ul>
+			
+			<header>
+				<h2 class="code">Slides</h2>
+			</header>
+			<ul>
+				<li>
+					Douglas Crockford: <a href="http://www.slideshare.net/douglascrockford/newandimproved">ECMAScript 5: The New &amp; Improved Parts</a> and <a href="http://www.slideshare.net/douglascrockford/jsonsag">The JSON Saga</a>
+				</li>
+				<li>
+					Mike Taylor: <a href="http://miketaylr.com/pres/txjs/MikeTaylor_txjs_2010.pdf">Regressive Enhancement, or HTML5 for crappy browsers</a>
+				</li>
+				<li>
+					Dan Webb: <a href="http://www.slideshare.net/danwrong/building-anywhere-for-txjs">Building @anywhere: A Client-side Interface to Twitter</a>
+				</li>
+				<li>
+					Alex Sexton: <a href="http://www.slideshare.net/SlexAxton/breaking-the-cross-domain-barrier">Breaking The Cross Domain Barrier</a>
+				</li>
+				<li>
+					Tom Hughes-Croucher: <a href="http://www.slideshare.net/sh1mmer/txjs-4424188">JavaScript Everywhere! Creating a 100% JavaScript web stack</a>
+				</li>
+				<li>
+					Brandon Aaron: <a href="http://brandonaaron.net/blog/2009/03/26/special-events">Special Events: Beyond Custom Events</a>
+				</li>
+				<li>
+					Peter Higgins: <a href="http://www.slideshare.net/phiggins/txjs">It's Just JavaScript</a>
+				</li>
+				<li>
+					Tim Caswell: <a href="http://www.slideshare.net/creationix/real-time-web-with-node">Writing a real-time game with NodeJS</a>
+				</li>
+				<li>
+					Kyle Simpson: <a href="http://www.slideshare.net/shadedecho/ui-architecture-web-performance">Web Performance &amp; UI Architecture</a>
+				</li>
+				<li>
+					John Hann: <a href="http://www.slideshare.net/unscriptable/cujo-dojo-css3-mvc">Cujo: A Sneak Peek -- Dojo + CSS3 + MVC</a>
+				</li>
+			</ul>
+		</section>
 
 		<section id="schedule">
 			<header>
