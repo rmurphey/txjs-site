@@ -82,6 +82,9 @@
 					Tim Caswell: <a href="http://www.slideshare.net/creationix/real-time-web-with-node">Writing a real-time game with NodeJS</a>
 				</li>
 				<li>
+					Brian LeRoux: <a href="http://www.slideshare.net/brianleroux/txjs">F@#! Yeah, Mobile JavaScript</a>
+				</li>
+				<li>
 					Kyle Simpson: <a href="http://www.slideshare.net/shadedecho/ui-architecture-web-performance">Web Performance &amp; UI Architecture</a>
 				</li>
 				<li>
