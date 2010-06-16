@@ -54,41 +54,42 @@
 			</ul>
 			
 			<header>
-				<h2 class="code">Slides</h2>
+				<h2 class="code">Slides &amp; Links</h2>
 			</header>
 			<ul>
 				<li>
+					Brandon Aaron: <a href="http://brandonaaron.net/blog/2009/03/26/special-events">Special Events: Beyond Custom Events</a>
+				</li>
+				<li>
+					Tim Caswell: <a href="http://www.slideshare.net/creationix/real-time-web-with-node">Writing a real-time game with NodeJS</a>
+				</li>
+				<li>
 					Douglas Crockford: <a href="http://www.slideshare.net/douglascrockford/newandimproved">ECMAScript 5: The New &amp; Improved Parts</a> and <a href="http://www.slideshare.net/douglascrockford/jsonsag">The JSON Saga</a>
+				</li>
+				<li>
+					Tom Hughes-Croucher: <a href="http://www.slideshare.net/sh1mmer/txjs-4424188">JavaScript Everywhere! Creating a 100% JavaScript web stack</a>
+				</li>
+				<li>
+					John Hann: <a href="http://www.slideshare.net/unscriptable/cujo-dojo-css3-mvc">Cujo: A Sneak Peek -- Dojo + CSS3 + MVC</a>
+				</li>
+				<li>
+					Peter Higgins: <a href="http://www.slideshare.net/phiggins/txjs">It's Just JavaScript</a>
+				</li>
+				<li>Paul Irish: <a href="http://paulirish.com/2010/10-things-i-learned-from-the-jquery-source/">10 Things I Learned from the jQuery Source</a></li>
+				<li>
+					Brian LeRoux: <a href="http://www.slideshare.net/brianleroux/txjs">F@#! Yeah, Mobile JavaScript</a>
+				</li>
+				<li>
+					Alex Sexton: <a href="http://www.slideshare.net/SlexAxton/breaking-the-cross-domain-barrier">Breaking The Cross Domain Barrier</a>
+				</li>
+				<li>
+					Kyle Simpson: <a href="http://www.slideshare.net/shadedecho/ui-architecture-web-performance">Web Performance &amp; UI Architecture</a>
 				</li>
 				<li>
 					Mike Taylor: <a href="http://miketaylr.com/pres/txjs/MikeTaylor_txjs_2010.pdf">Regressive Enhancement, or HTML5 for crappy browsers</a>
 				</li>
 				<li>
 					Dan Webb: <a href="http://www.slideshare.net/danwrong/building-anywhere-for-txjs">Building @anywhere: A Client-side Interface to Twitter</a>
-				</li>
-				<li>
-					Alex Sexton: <a href="http://www.slideshare.net/SlexAxton/breaking-the-cross-domain-barrier">Breaking The Cross Domain Barrier</a>
-				</li>
-				<li>
-					Tom Hughes-Croucher: <a href="http://www.slideshare.net/sh1mmer/txjs-4424188">JavaScript Everywhere! Creating a 100% JavaScript web stack</a>
-				</li>
-				<li>
-					Brandon Aaron: <a href="http://brandonaaron.net/blog/2009/03/26/special-events">Special Events: Beyond Custom Events</a>
-				</li>
-				<li>
-					Peter Higgins: <a href="http://www.slideshare.net/phiggins/txjs">It's Just JavaScript</a>
-				</li>
-				<li>
-					Tim Caswell: <a href="http://www.slideshare.net/creationix/real-time-web-with-node">Writing a real-time game with NodeJS</a>
-				</li>
-				<li>
-					Brian LeRoux: <a href="http://www.slideshare.net/brianleroux/txjs">F@#! Yeah, Mobile JavaScript</a>
-				</li>
-				<li>
-					Kyle Simpson: <a href="http://www.slideshare.net/shadedecho/ui-architecture-web-performance">Web Performance &amp; UI Architecture</a>
-				</li>
-				<li>
-					John Hann: <a href="http://www.slideshare.net/unscriptable/cujo-dojo-css3-mvc">Cujo: A Sneak Peek -- Dojo + CSS3 + MVC</a>
 				</li>
 			</ul>
 		</section>
