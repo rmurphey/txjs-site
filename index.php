@@ -51,6 +51,7 @@
 				<li><a href="http://oksoclap.com/txjs">Collaborative notes</a></li>
 				<li><a href="http://blip.tv/search?q=txjs">Videos</a> (thanks <a href="http://twitter.com/springnet">@springnet</a>!)</li>
 				<li><a href="http://twitter.com/#search?q=txjs">#txjs on Twitter</a></li>
+				<li><a href="http://thechangelog.com/post/676820023/episode-0-2-6-douglas-crockford-on-json-and-javascript-f">Interview with Douglas Crockford at TXJS</a></li>
 			</ul>
 			
 			<header>
@@ -79,6 +80,9 @@
 				<li>
 					Brian LeRoux: <a href="http://www.slideshare.net/brianleroux/txjs">F@#! Yeah, Mobile JavaScript</a>
 				</li>
+                                <li>
+                                        Tom Occhino: <a href="http://www.slideshare.net/tomocchino/front-end-abstractions-at-facebook">Front End Abstractions at Facebook</a>
+                                </li>
 				<li>
 					Alex Sexton: <a href="http://www.slideshare.net/SlexAxton/breaking-the-cross-domain-barrier">Breaking The Cross Domain Barrier</a>
 				</li>
